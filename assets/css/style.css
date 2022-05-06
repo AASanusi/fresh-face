@@ -126,6 +126,8 @@ h2 {
     width: 33%;
     float: left;
     background-color: blue;
+    
+    
 }
 
 #right-about {
@@ -140,3 +142,4 @@ h2 {
     margin: 0 auto;
     background-color: green;
 }
+

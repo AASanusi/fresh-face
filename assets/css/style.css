@@ -122,19 +122,20 @@ h2 {
 }
 
 #left-about {
-    padding-top: 30px;
+    height: 600px;
     width: 33%;
     float: left;
-    background-color: blue;
-    
+    background: url(../images/woman-with-natural-remedy-on-her-face.jpg) no-repeat center center;
+    background-size: 100%;
     
 }
 
 #right-about {
-    padding-top: 30px;
+    height: 600px;
     width: 33%;
     float: right;
-    background-color: silver;
+    background: url(../images/woman-with-fresh-face-smiling.jpg) no-repeat center center;
+    background-size: 100%;
 }
 
 #center-about {

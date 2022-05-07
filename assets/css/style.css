@@ -161,7 +161,7 @@ h2 {
 }
 
 #center-about-image {
-    height: 290px;
+    height: 100%;
     width: 100%;
     background: url(../images/center-about-image-of-a-man-with-facial.jpg) no-repeat center center;
     background-size: 100%;

@@ -121,7 +121,7 @@ h2 {
     height: 600px;
 }
 
-#left-about {
+#left-about-image {
     height: 600px;
     width: 33%;
     float: left;
@@ -130,7 +130,7 @@ h2 {
     
 }
 
-#right-about {
+#right-about-image {
     height: 600px;
     width: 33%;
     float: right;
@@ -138,9 +138,14 @@ h2 {
     background-size: 100%;
 }
 
-#center-about {
+#center-about-content {
     width: 33%;
     margin: 0 auto;
     background-color: green;
 }
 
+#reason {
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 280%;
+}

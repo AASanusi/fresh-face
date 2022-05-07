@@ -125,7 +125,7 @@ h2 {
     height: 600px;
     width: 33%;
     float: left;
-    background: url(../images/woman-with-natural-remedy-on-her-face.jpg) no-repeat center center;
+    background: url(../images/left-about-image-woman-with-natural-remedy-on-her-face.jpg) no-repeat center center;
     background-size: 100%;
     
 }
@@ -134,7 +134,7 @@ h2 {
     height: 600px;
     width: 33%;
     float: right;
-    background: url(../images/woman-with-fresh-face-smiling.jpg) no-repeat center center;
+    background: url(../images/right-about-image-woman-with-fresh-face-smiling.jpg) no-repeat center center;
     background-size: 100%;
 }
 
@@ -161,9 +161,8 @@ h2 {
 }
 
 #center-about-image {
-    height: 300px;
-    width: 33%;
-    float: bottom;
+    height: 290px;
+    width: 100%;
     background: url(../images/center-about-image-of-a-man-with-facial.jpg) no-repeat center center;
     background-size: 100%;
 }

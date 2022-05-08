@@ -10,17 +10,14 @@
 body {
     font-family: Lato, Georgia, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #000000;
 }
 
-/* Change logo color, letter-spacing (2px) and add icon */
-
-h1,
-h2 {
+h1, h2 {
     font-family: Playfair Display, Georgia, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #000000;
 }
 
 #logo {
@@ -29,11 +26,12 @@ h2 {
     margin-left: 10px;
 }
 
-/* navigation links - change letter spacing (2px)*/
+/* navigation links */
 
 #menu {
     font-size: 90%;
     letter-spacing: 4px;
+    float: right;
 }
 
 #menu,
@@ -41,8 +39,7 @@ h2 {
     line-height: 75px;
 }
 
-#menu li {
-    float: right;
+#menu > li {
     list-style-type: none;
     margin-right: 30px;
     display: inline;
@@ -53,19 +50,19 @@ h2 {
     color: inherit;
 }
 
-/* change the pseudo hover to something else e.g change colour use w3s*/
+/* pseudo hover */
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    background-color: #3eb489;
 }
 
-/* change the active page to something else e.g change colour use w3s*/
+
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 4px solid #3a3a3a;
 }
 
 /* hero image */
 
-/*Add colour to header*/
+
 #hero-header {
     height: 700px;
     width: 100%;
@@ -98,7 +95,7 @@ h2 {
     }
 }
 
-/* need to adjust padding arrangement/colour on text*/
+
 #hero-image-text {
     font-size: 110%;
     letter-spacing: 4px;
@@ -106,9 +103,9 @@ h2 {
     height: 100px;
 
     padding-top: 21px;
-    padding-left: 10px;
+    padding-left: 5px;
 
-    background-color: rgba(62, 180, 137, .7);
+    background-color: rgba(196, 235, 150, .9);
 
     bottom: 300px;
     right: 50px;
@@ -149,7 +146,7 @@ h2 {
 /* Changed letter-spacing to 2px make sure to change others too*/
 #center-about-content {
     font-size: 110%;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     text-align: left;
     width: 33%;
     height: 300px;
@@ -182,12 +179,13 @@ h2 {
     padding: 15px 5px;
     border: 2px solid silver;
     box-sizing: border-box;
-    background-color: rgba(62, 180, 137, .7);  
+    background-color: rgba(196, 235, 150, .9);  
 }
 
 /* footer */
 footer {
-    height: 300px;
+    width: 100%;
+    background-color: silver;
 }
 
 .socials {
@@ -202,10 +200,11 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 1%;
-    color: #3a3a3a;
+    color: #000000;
 }
 
 #copy {
     text-align: center;
     padding: 1%;
+    color: #ffffff;
 }

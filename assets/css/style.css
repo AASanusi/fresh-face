@@ -116,8 +116,8 @@ h1, h2 {
 
 /* about us */
 
-#about-fresh-face {
-    height: 700px;
+#we-love-ff {
+    height: 600px;
 }
 
 #left-about-image {
@@ -137,10 +137,11 @@ h1, h2 {
     background-size: 100%;
 }
 
-#reason {
+#we-love-ff-header {
     text-align: center;
     margin: 20px 0px;
     font-size: 200%;
+    background-color: aqua;
 }
 
 /* Changed letter-spacing to 2px make sure to change others too*/
@@ -149,29 +150,23 @@ h1, h2 {
     letter-spacing: 2px;
     text-align: left;
     width: 33%;
-    height: 300px;
-    padding: 0;
+    height: 600px;
+    padding: 5px;
     margin: 0 auto;
-    background-color: rgba(62, 180, 137, .7);  
+    background-color: rgba(142, 229, 11, 0.9); 
 }
 
 
-#center-about-image {
-    height: 100%;
-    width: 100%;
-    background: url(../images/center-about-image-of-a-man-with-facial.jpg) no-repeat center center;
-    background-size: 100%;
-    padding: 0 0 2px 0;
-}
-
-/* Restyle testimonial if needed*/
-#test {
+/* testimonial */
+#testimonial-header {
     text-align: center;
     margin: 20px 0px;
     font-size: 200%;
+    background-color: aqua;
+    clear: both;
 }
 
-#feedbacks div {
+#testimonial div {
     width: 25%;
     height: 300px;
     float: left;

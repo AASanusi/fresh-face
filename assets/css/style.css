@@ -20,6 +20,13 @@ h1, h2 {
     color: #000000;
 }
 
+h3, h4 {
+    font-family: Playfair Display, Georgia, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #000000;
+}
+
 #logo {
     float: left;
     font-size: 280%;
@@ -202,4 +209,28 @@ footer {
     text-align: center;
     padding: 1%;
     color: #ffffff;
+}
+
+#skin-type {
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+}
+
+#dsr {
+    height: 700px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+#osr {
+    height: 700px;
+    width: 100%;
+    background-color: silver;
+}
+
+#csr {
+    height: 700px;
+    width: 100%;
+    background-color: burlywood;
 }

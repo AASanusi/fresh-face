@@ -22,7 +22,6 @@ h1, h2 {
 
 h3, h4 {
     font-family: Playfair Display, Georgia, sans-serif;
-    text-transform: capitalize;
     letter-spacing: 2px;
     color: #000000;
 }
@@ -211,12 +210,15 @@ footer {
     color: #ffffff;
 }
 
+
+/* Remedies page */
 #skin-type {
     width: 100%;
     overflow: hidden;
     margin: auto;
 }
 
+/* Each remedy div */
 #dsr {
     height: 700px;
     width: 100%;
@@ -233,4 +235,8 @@ footer {
     height: 700px;
     width: 100%;
     background-color: burlywood;
+}
+
+.h2-s-t, .h3-s-t {
+    text-align: center;
 }

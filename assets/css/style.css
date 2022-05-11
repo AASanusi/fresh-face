@@ -298,3 +298,15 @@ footer {
     background-color: rgb(67, 226, 43);
     padding: 50px 10px;
 }
+
+/* contact ud */
+
+.form-section {
+    background-color: bisque;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    margin: .5rem 0;
+    overflow: hidden;
+    
+}

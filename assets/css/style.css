@@ -211,91 +211,25 @@ footer {
 }
 
 
-/* Remedies page */
-#skin-type-container {
-    width: 100%;
-    overflow: hidden;
-    margin: auto;
-}
-
-/* Each remedy div */
-/*#dsr {
-    height: 700px;
-    width: 100%;
-    background-color: antiquewhite;
-}
-
-#osr {
-    height: 700px;
-    width: 100%;
-    background-color: silver;
-}
-
-#csr {
-    height: 700px;
-    width: 100%;
-    background-color: burlywood;
-}
-
-.h2-s-t, .h3-s-t {
-    text-align: center;
-}*/
-
-/*.remedies {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 2rem 0;
-    position: relative;
-}
-
-.skin-headings {
-    text-align: center;
-}
-
-.remedies .skin-headings {
-    flex-basis: 100%;
-    background-color: aqua;
-    padding: 1rem;
-}
-.remedies .need {
-    flex-basis: 50%;
-    background-color: rgb(221, 0, 255);
-    padding: 1rem;
-}
-
-.remedies .make {
-    flex-basis: 50%;
-    background-color: rgb(157, 255, 0);
-    padding: 1rem;
-}
-
-.remedies .apply {
-    flex-basis: 50%;
-    background-color: rgb(64, 0, 255);
-    padding: 1rem;
-}
-
-.remedies .treat {
-    flex-basis: 50%;
-    background-color: rgb(0, 255, 30);
-    padding: 1rem;
-}*/
-
+/* Remedy section*/
 #skin-type-container {
     display: flex;
     flex-direction: column;
     width: 100%;
-    margin: 2rem 0;
+    margin: .5rem 0;
+    overflow: hidden;
+    background-color: rgba(196, 235, 150, .9);
 }
 
-/* inside the comtainer */
+/* inside the container */
 .skin-headings {
     background-color: #3eb489;
     text-align: center;
     padding: 1rem;
+    margin: 1rem 0;
 }
 
+/* Each skin remedy section */
 .remedies-content {
     display: flex;
     flex-direction: row;
@@ -328,4 +262,39 @@ footer {
     background-color: rgba(191, 211, 7, 0.248);
     flex: 1 1 100px;
     padding: 25px 10px 5px 25px;
+}
+
+#skin-chart-container {
+    width: 100%;
+    margin: .5rem 0;
+    overflow: hidden;
+    background-color: rgba(196, 235, 150, .9);
+}
+
+#skin-chart-headings {
+    background-color: #3eb489;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+#skin-chart-grid {
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 50px;
+}
+
+.grid-skin-type {
+    
+}
+
+.grid-skin-headings {
+    background-color: blueviolet;
+    padding: 50px 10px;
+}
+
+.grid-skin-sypmtoms {
+    background-color: rgb(67, 226, 43);
+    padding: 50px 10px;
 }

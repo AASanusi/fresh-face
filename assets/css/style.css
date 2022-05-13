@@ -100,29 +100,30 @@ h3, h4 {
     }
 }
 
-
 #hero-image-text {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 4px;
     width: 450px;
     height: 100px;
-
     padding-top: 21px;
     padding-left: 5px;
-
     background-color: rgba(196, 235, 150, .9);
-
     bottom: 300px;
     right: 50px;
     text-align: center;
-
     position: absolute;
 }
 
 /* about us */
 
-#we-love-ff {
-    height: 600px;
+#we-love-ff-header {
+    background-color: aqua;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 100%;
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
 }
 
 #left-about-image {
@@ -142,13 +143,6 @@ h3, h4 {
     background-size: 100%;
 }
 
-#we-love-ff-header {
-    text-align: center;
-    margin: 20px 0px;
-    font-size: 200%;
-    background-color: aqua;
-}
-
 /* Changed letter-spacing to 2px make sure to change others too*/
 #center-about-content {
     font-size: 110%;
@@ -164,10 +158,13 @@ h3, h4 {
 
 /* testimonial */
 #testimonial-header {
-    text-align: center;
-    margin: 20px 0px;
-    font-size: 200%;
     background-color: aqua;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 100%;
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
     
 }
 

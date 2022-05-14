@@ -344,7 +344,7 @@ footer {
 /* Form section */
 
 .form-section {
-    background-color: bisque;
+    background-color: #c2c5c4;
     background-size: cover;
     width: 100%;
     margin: .5rem 0;
@@ -354,32 +354,33 @@ footer {
 
 .feedback-form {
     margin:50px 20% 0 20%;
-    color:#fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    color: #000000;
     max-width: 800px;
     left: 5%;
     padding:30px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .feedback-form > h2 {
-    color:#fafafa;
+    color: #000000;
     margin-bottom: 20px;
     text-align: center;
 }
 
 .text-input {
-    background: #3eb489;
-    color:#fafafa;
+    background: #fafafa;
+    color: #000000;
     width:100%;
     height: 25px;
     margin: 5px 0 20px 0;
     padding: 5px;
-    border: 1px solid #fafafa;
+    border: 1px solid #000000;
     border-radius: 2px;
 }
 
 .text-input:hover {
-    background-color:#f16c6b;
+    background-color:#d2dfafe6;
 }
 
 .submit-button {
@@ -394,28 +395,29 @@ footer {
 
 .submit-button:hover {
     background-color: #ff0000;
-    color: #f2f2f2;
+    color: #000000;
 }
 
 /* Contact section */
 
 .contact-info {
     margin:0 20% 10px 20%;
-    color:#fff;
-    background-color: rgba(137, 80, 80, 0.6);
+    color: #000000;
     max-width: 800px;
     left: 5%;
     padding:30px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .contact-info > h2 {
-    color:#fafafa;
+    color: #000000;
     margin-bottom: 20px;
     text-align: center;
 }
 
 .get-in-touch {
-    color:#fafafa;
+    color: #000000;
     width:100%;
     height: 25px;
     margin: 2px 0 5px 0;
@@ -424,7 +426,7 @@ footer {
 
 .contact-details {
     font-weight: 900;
-    color: red;
+    color: #000000;
 }
 
 /*iframe - need to fix */

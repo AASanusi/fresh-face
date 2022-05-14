@@ -58,7 +58,7 @@ h3, h4 {
 
 /* pseudo hover */
 #menu a:hover {
-    background-color: #3eb489;
+    background-color: #d3d3d5;
 }
 
 
@@ -107,7 +107,7 @@ h3, h4 {
     height: 100px;
     padding-top: 21px;
     padding-left: 5px;
-    background-color: rgba(196, 235, 150, .9);
+    background-color:  rgba(210, 223, 175, .9);
     bottom: 300px;
     right: 50px;
     text-align: center;
@@ -122,11 +122,10 @@ h3, h4 {
     height: 100px;
     width: 100%;
     line-height: 100px;
-}
-
-#fresh-face-info-container {
-    text-align: center;
-    background-color: #3eb489;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    margin: 10px 0;
+    background-color:  #d2dfafe6;
 }
 
 #fresh-face-info {
@@ -134,14 +133,15 @@ h3, h4 {
     justify-content: space-between;
     align-items: center;
     height: 300;
-    background-color: #f16c6b;
 }
 
 #left-image {
-    height: 600px;
+    display: flex;
+    justify-content: center;
+    height: 500px;
     width: 45%;
     background-size: 100%;
-    padding: 5px;
+    padding: 20px;
 }
 
 #left-image > img {
@@ -167,10 +167,12 @@ h3, h4 {
 }
 
 #right-image {
-    height: 600px;
+    display: flex;
+    justify-content: center;
+    height: 500px;
     width: 45%;
     background-size: 100%;
-    padding: 5px;
+    padding: 20px;
 }
 
 #right-image > img {
@@ -179,16 +181,15 @@ h3, h4 {
 
 /* testimonial */
 
-#testimonial-container {
-    text-align: center;
-    background-color: #3eb489;
-}
-
 #testimonial-header {
     text-align: center;
     font-size: 100%;
     width: 100%;
     line-height: 100px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    margin: 10px 0;
+    background-color:  #d2dfafe6;
 }
 
 #testimonial-names {
@@ -196,14 +197,20 @@ h3, h4 {
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
-    background-color: #f16c6b;
-    padding: 10px 0px;
+    background-color: #c2c5c4;
+    padding: 10px 10px;
 }
 
+#testimonial-names h3 {
+    text-align: center;
+}
 /* footer */
 footer {
     width: 100%;
-    background-color: silver;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    margin: 10px 0;
+    background-color:  #d2dfafe6;
 }
 
 .socials {
@@ -235,15 +242,16 @@ footer {
     width: 100%;
     margin: .5rem 0;
     overflow: hidden;
-    background-color: silver;
 }
 
 /* inside the container */
 .skin-headings {
-    background-color: #3eb489;
+    background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
     margin: 1rem 0;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 /* Each skin remedy section */
@@ -253,67 +261,74 @@ footer {
     flex-wrap: nowrap;
     justify-content: space-between;
     align-items: stretch;
-    background-color: bisque;
 }
 
-
 .need {
-    background-color: aquamarine;
+    background-color: #c2c5c4;
     flex: 1 1 100px;
     padding: 25px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .make {
-    background-color: #3a3a3a;
+    background-color: #f0dfa0;
     flex: 1 1 100px;
     padding: 25px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .apply {
-    background-color: aqua;
+    background-color: #c2c5c4;
     flex: 1 1 100px;
     padding: 25px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .treat {
-    background-color: rgba(191, 211, 7, 0.248);
+    background-color: #f0dfa0;
     flex: 1 1 100px;
     padding: 25px 10px 5px 25px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
+/*Skin charts*/
 #skin-chart-container {
     width: 100%;
     margin: .5rem 0;
     overflow: hidden;
-    background-color: rgba(196, 235, 150, .9);
 }
 
 #skin-chart-headings {
-    background-color: #3eb489;
+    background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
     margin: 1rem 0;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 #skin-chart-grid {
-    background-color: bisque;
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 10px 50px;
 }
 
 .grid-skin-type {
-    
-}
-
-.grid-skin-headings {
-    background-color: blueviolet;
+    background-color: #c2c5c4;
     padding: 50px 10px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .grid-skin-sypmtoms {
-    background-color: rgb(67, 226, 43);
+    background-color: #f0dfa0;
     padding: 50px 10px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 /* Form and contact section */

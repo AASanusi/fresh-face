@@ -126,7 +126,63 @@ h3, h4 {
     line-height: 100px;
 }
 
-#left-about-image {
+#fresh-face-info-container {
+    text-align: center;
+    margin: 20px 20px;
+    background-color: #3eb489;
+}
+
+#fresh-face-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+    height: 300;
+    background-color: #f16c6b;
+}
+
+#left-image {
+    height: 600px;
+    width: 45%;
+    background-size: 100%;
+    padding: 5px;
+}
+
+#left-image > img {
+    height: 100%;
+}
+
+#right-text {
+    font-size: 110%;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 33%;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+#left-text {
+    font-size: 110%;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 33%;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+#right-image {
+    height: 600px;
+    width: 45%;
+    background-size: 100%;
+    padding: 5px;
+}
+
+#right-image > img {
+    height: 100%;
+}
+
+
+/*#left-about-image {
     height: 600px;
     width: 33%;
     float: left;
@@ -141,9 +197,9 @@ h3, h4 {
     float: right;
     background: url(../images/right-about-image-woman-with-fresh-face-smiling.jpg) no-repeat center center;
     background-size: 100%;
-}
+}*/
 
-/* Changed letter-spacing to 2px make sure to change others too*/
+/* Changed letter-spacing to 2px make sure to change others too
 #center-about-content {
     font-size: 110%;
     letter-spacing: 2px;
@@ -153,7 +209,7 @@ h3, h4 {
     padding: 5px;
     margin: 0 auto;
     background-color: rgba(142, 229, 11, 0.9); 
-}
+}*/
 
 
 /* testimonial */
@@ -214,7 +270,7 @@ footer {
     width: 100%;
     margin: .5rem 0;
     overflow: hidden;
-    background-color: rgba(196, 235, 150, .9);
+    background-color: silver;
 }
 
 /* inside the container */

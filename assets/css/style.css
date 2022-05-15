@@ -504,8 +504,10 @@ footer {
   right: 110px;
 }
 
-nav {
+#menu {
+    letter-spacing: 2px;
     clear: both;
+}
    
 } 
 

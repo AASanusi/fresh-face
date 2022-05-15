@@ -410,13 +410,10 @@ footer {
 
 .contact-info {
     margin: 0 20% 10px 20%;
-    background-color: #f0dfa0;
     color: #000000;
     max-width: 100%;
     left: 5%;
     padding: 30px;
-    border: 1px solid #000000;
-    box-sizing: border-box;
 }
 
 .contact-info>h2 {

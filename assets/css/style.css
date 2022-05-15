@@ -574,4 +574,8 @@ footer {
         letter-spacing: 2px;
         font-size: 30%;
     }
+
+    .contact-info {
+        padding: 10px;
+    }
 }

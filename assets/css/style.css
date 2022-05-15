@@ -317,18 +317,11 @@ footer {
     background-color: #c2c5c4;
     padding: 50px 10px;
     margin: 5px 5px;
-    border: 2px dotted #000000;
-    box-sizing: border-box;
-    text-align: center;
 }
 
 .grid-skin-sypmtoms {
-    background-color: #f0dfa0;
     padding: 30px 200px;
     margin: 5px 5px;
-    border: 2px dotted #000000;
-    box-sizing: border-box;
-    text-align: center;
 }
 
 /* Form and contact section */

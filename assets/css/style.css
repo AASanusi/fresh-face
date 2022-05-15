@@ -499,3 +499,27 @@ footer {
   right: 110px;
 }
 
+nav {
+    clear: both;
+   
+} 
+}
+
+@media screen and (max-width: 660px) {
+   #we-love-ff-header {
+   font-size: 80%;
+   width: 100%;
+   line-height: 100px;
+}
+   #testimonial-header {
+   font-size: 100%;
+   width: 100%;
+   line-height: 100px;
+}
+
+}
+
+/*For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1360px) {
+    
+}

@@ -255,7 +255,7 @@ footer {
     background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
-    margin: 1rem 0;
+    margin-top: 2rem;
     border: 1px solid #000000;
     box-sizing: border-box;
 }
@@ -270,35 +270,25 @@ footer {
 }
 
 .need {
-    background-color: #c2c5c4;
     flex: 1 1 100px;
     padding: 20px 20px 20px 25px;
-    border: 2px dotted #000000;
-    box-sizing: border-box;
+  
 }
 
 .make {
-    background-color: #f0dfa0;
     flex: 1 1 100px;
     padding: 20px 20px 20px 25px;
-    border: 2px dotted #000000;
-    box-sizing: border-box;
+    
 }
 
 .apply {
-    background-color: #c2c5c4;
     flex: 1 1 100px;
     padding: 20px 20px 20px 25px;
-    border: 2px dotted #000000;
-    box-sizing: border-box;
 }
 
 .treat {
-    background-color: #f0dfa0;
     flex: 1 1 100px;
     padding: 20px 20px;
-    border: 2px dotted #000000;
-    box-sizing: border-box;
 }
 
 /*Skin charts*/

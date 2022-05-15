@@ -122,7 +122,7 @@ h3, h4 {
     height: 100px;
     width: 100%;
     line-height: 100px;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     box-sizing: border-box;
     margin: 10px 0;
     background-color:  #d2dfafe6;
@@ -186,7 +186,7 @@ h3, h4 {
     font-size: 100%;
     width: 100%;
     line-height: 100px;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     box-sizing: border-box;
     margin: 10px 0;
     background-color:  #d2dfafe6;
@@ -207,7 +207,7 @@ h3, h4 {
 }
 
 .test-comments {
-    border: 2px solid #000000;
+    border: 2px dotted #000000;
     box-sizing: border-box; 
     padding: 10px 10px;
 }
@@ -215,7 +215,7 @@ h3, h4 {
 /* footer */
 footer {
     width: 100%;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     box-sizing: border-box;
     margin: 10px 0;
     background-color:  #d2dfafe6;
@@ -258,7 +258,7 @@ footer {
     text-align: center;
     padding: 1rem;
     margin: 1rem 0;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     box-sizing: border-box;
 }
 
@@ -274,32 +274,32 @@ footer {
 .need {
     background-color: #c2c5c4;
     flex: 1 1 100px;
-    padding: 25px;
-    border: 2px solid #000000;
+    padding: 20px 20px 20px 25px;
+    border: 2px dotted #000000;
     box-sizing: border-box;
 }
 
 .make {
     background-color: #f0dfa0;
     flex: 1 1 100px;
-    padding: 25px;
-    border: 2px solid #000000;
+    padding: 20px 20px 20px 25px;
+    border: 2px dotted #000000;
     box-sizing: border-box;
 }
 
 .apply {
     background-color: #c2c5c4;
     flex: 1 1 100px;
-    padding: 25px;
-    border: 2px solid #000000;
+    padding: 20px 20px 20px 25px;
+    border: 2px dotted #000000;
     box-sizing: border-box;
 }
 
 .treat {
     background-color: #f0dfa0;
     flex: 1 1 100px;
-    padding: 25px 10px 5px 25px;
-    border: 2px solid #000000;
+    padding: 20px 20px;
+    border: 2px dotted #000000;
     box-sizing: border-box;
 }
 
@@ -315,7 +315,7 @@ footer {
     text-align: center;
     padding: 1rem;
     margin: 1rem 0;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     box-sizing: border-box;
 }
 
@@ -328,15 +328,17 @@ footer {
 .grid-skin-type {
     background-color: #c2c5c4;
     padding: 50px 10px;
-    border: 2px solid #000000;
+    border: 2px dotted #000000;
     box-sizing: border-box;
+    text-align: center;
 }
 
 .grid-skin-sypmtoms {
     background-color: #f0dfa0;
-    padding: 50px 10px;
-    border: 2px solid #000000;
+    padding: 30px 200px;
+    border: 2px dotted #000000;
     box-sizing: border-box;
+    text-align: center;
 }
 
 /* Form and contact section */

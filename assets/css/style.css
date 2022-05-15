@@ -59,7 +59,7 @@ h4 {
 }
 
 /* pseudo hover */
-#menu a:hover {
+#menu li:hover {
     background-color: #d3d3d5;
 }
 

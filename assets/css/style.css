@@ -459,3 +459,26 @@ footer {
     height: 300px;
     margin: 30px 0 0 0;
 }
+
+/* Media queries */
+
+/*For screens size from 1360px wide and down */
+@media screen and (max-width: 1360px) {
+    #hero-image-text {
+    font-size: 90%;
+    letter-spacing: 2px;
+    width: 225px;
+    height: 110px;
+    padding: 10px 10px;
+    background-color:  rgba(210, 223, 175, .9);
+    bottom: 320px;
+    right: 140px;
+    text-align: center;
+    position: absolute;
+}
+}
+
+/*For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1360px) {
+    
+}

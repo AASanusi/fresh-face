@@ -508,6 +508,12 @@ nav {
     clear: both;
    
 } 
+
+.remedies-content {
+    flex-direction: column;
+    
+}
+
 }
 
 /*For screens size from 660px wide and down */

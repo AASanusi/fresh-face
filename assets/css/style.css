@@ -511,12 +511,12 @@ nav {
    width: 100%;
    line-height: 100px;
 }
-   #testimonial-header {
-   font-size: 100%;
-   width: 100%;
-   line-height: 100px;
-}
 
+#testimonial-header {
+    font-size: 100%;
+    width: 100%;
+    line-height: 100px;
+ }
 }
 
 /*For larger to medium screens size from 1200px wide and down */

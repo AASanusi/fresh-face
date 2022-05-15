@@ -42,40 +42,40 @@
 
         <form action="https://formdump.codeinstitute.net/" method="post" class="feedback-form">
             <h2>Got A Question For Us</h2>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="full_name" placeholder="Your name" class="text-input" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email_address" placeholder="Your email" class="text-input" required>
-            <label for="feedback">Let us know your thoughts</label>
+            <label for="fname">Full Name:</label>
+            <input type="text" id="fname" name="full_name" placeholder="Your full name" class="text-input" aria-label="input box to fill in your full name" required>
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email_address" placeholder="Your email" class="text-input" aria-label="input box to fill in your email address" required>
+            <label for="feedback">Your Feedback</label>
             <textarea name="feedback" id="feedback" cols="30" rows="10"
-                placeholder="Tell us what your favourite remedy is" class="text-input" required></textarea>
-            <input type="submit" value="Send Us Your Thoughts" class="submit-button">
+                placeholder="Tell us what your favourite remedy is" class="text-area" aria-label="input area to tell us what your favourite remedy is" required></textarea>
+            <input type="submit" value="Send Us Your Thoughts" class="submit-button" aria-label="submit button for the form">
         </form>
         <div class="contact-info">
             <h2>Get In Touch</h2>
             <div class="get-in-touch">
                 <p>
-                    <span class="contact-details">Phone: </span>
-                    <span> 077 123 45678</span>
-                </p>
-            </div>
-            <div class="get-in-touch">
-                <p>
-                    <span class="contact-details">Email: </span>
-                    <span>freshface@gmail.com</span>
-                </p>
-            </div>
-            <div class="get-in-touch">
-                <p>
-                    <span class="contact-details">Address: </span>
+                    Phone Number:
                     <br>
-                    <span>
-                        27 Oxford st,
-                        <br>
-                        London
-                        <br>
-                        WA4 14BB
-                    </span>
+                    077 123 45678
+                </p>
+            </div>
+            <div class="get-in-touch">
+                <p>
+                    Email Address:
+                    <br>
+                    FreshFace@gmail.com
+                </p>
+            </div>
+            <div class="contact-address">
+                <p>
+                    Address: 
+                    <br>
+                    27 Oxford st,
+                    <br>
+                    London
+                    <br>
+                    WA4 14BB
                 </p>
             </div>
             <iframe id="goggmap" src="https://www.google.com/maps/place/Oxford+St,+London/@51.5163976,-0.1457837,17z/data=!4m13!1m7!3m6!1s0x48761ad554c335c1:0xda2164b934c67c1a!2sOxford+St,+London!3b1!8m2!3d51.5152543!4d-0.1420395!3m4!1s0x48761ad554c335c1:0xda2164b934c67c1a!8m2!3d51.5152543!4d-0.1420395"

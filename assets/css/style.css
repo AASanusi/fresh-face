@@ -280,45 +280,45 @@ footer {
     text-align: center;
     width: 33%;
     padding: 5px;
-    margin: 0 auto;
-}
-
-
-
-
-
-
-
-
-/*.remedies-content {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    align-items: stretch;
+    margin: 30px auto;
 }
 
 .need {
-    flex: 1 1 100px;
-    padding: 20px 20px 20px 25px;
-  
+    margin: 25px 0;
+}
+
+.need > h4 {
+    padding: 20px;
+    font-size: larger;
 }
 
 .make {
-    flex: 1 1 100px;
-    padding: 20px 20px 20px 25px;
+    margin: 25px 0;
     
 }
 
+.make > h4 {
+    padding: 20px;
+    font-size: larger;
+}
+
 .apply {
-    flex: 1 1 100px;
-    padding: 20px 20px 20px 25px;
+    margin: 25px 0;
+}
+
+.apply > h4 {
+    padding: 20px;
+    font-size: larger;
 }
 
 .treat {
-    flex: 1 1 100px;
-    padding: 20px 20px;
-}*/
+    margin: 25px 0;
+}
+
+.treat > h4 {
+    padding: 20px;
+    font-size: larger;
+}
 
 /*Skin charts*/
 #skin-chart-container {

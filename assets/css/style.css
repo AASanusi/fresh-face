@@ -338,19 +338,28 @@ footer {
 
 #skin-chart-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 10px 50px;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 20px;
+
 }
 
 .grid-skin-type {
     background-color: #c2c5c4;
     padding: 50px 10px;
     margin: 5px 5px;
+    text-align: center;
+    font-size: larger;
+}
+
+.grid-skin-image > img {
+   max-width: 100%;
 }
 
 .grid-skin-sypmtoms {
     padding: 50px 10px;
     margin: 5px 5px;
+    text-align: center;
+    background-color: #c2c5c4;
 }
 
 /* Form and contact section */

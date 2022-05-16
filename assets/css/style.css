@@ -243,8 +243,6 @@ footer {
 
 /* Remedy section*/
 #skin-type-container {
-    display: flex;
-    flex-direction: column;
     width: 100%;
     margin: .5rem 0;
     overflow: hidden;
@@ -261,7 +259,38 @@ footer {
 }
 
 /* Each skin remedy section */
+.remedies-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remedies-image {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 45%;
+    background-size: 100%;
+    padding: 20px;
+}
+
 .remedies-content {
+    font-size: 110%;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 33%;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+/*.remedies-content {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -289,7 +318,7 @@ footer {
 .treat {
     flex: 1 1 100px;
     padding: 20px 20px;
-}
+}*/
 
 /*Skin charts*/
 #skin-chart-container {

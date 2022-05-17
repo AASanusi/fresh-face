@@ -356,7 +356,11 @@ footer {
 
 .grid-skin-image > img {
    max-width: 100%;
-   padding: 5px 110px;
+   padding: 5px 120px;
+}
+
+.grid-skin-image  .image-close-up {
+    max-width: 50%;
 }
 
 .grid-skin-sypmtoms {
@@ -367,9 +371,6 @@ footer {
     
 }
 
-.grid-skin-image  .image-close-up {
-    max-width: 50%;
-}
 
 
 

@@ -84,6 +84,7 @@ h4 {
     background: url(../images/hero-image.jpg) no-repeat center center;
     background-size: 100%;
     background-position-y: -5px;
+    margin: 1rem;
     
 
     /* animates zoom effect on loading page*/
@@ -257,7 +258,7 @@ footer {
     background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
     border: 1px solid #000000;
     box-sizing: border-box;
 }
@@ -583,6 +584,11 @@ footer {
 /*For screens size from 500px wide and down */
 
 @media screen and (max-width: 500px) {
+    #logo {
+        font-size: 200%;
+        margin-bottom: -30px;
+    } 
+
     #we-love-ff-header {
         font-size: 50%;
     }
@@ -609,6 +615,11 @@ footer {
 
     #left-text > p {
         font-size: 70%;
+    }
+
+/* Remedies section */
+    .skin-headings {
+        font-size: 75%;
     }
 
 
@@ -653,9 +664,18 @@ footer {
 /*For screens size from 300px wide and down */
 
 @media screen and (max-width: 300px) {
+    #logo {
+        font-size: 200%;
+        margin-bottom: -30px;
+    }
+
+    #menu {
+        font-size: 20%;
+        padding: 5px 5px;
+        margin: 5px 0;
+    }
     #we-love-ff-header {
         font-size: 30%;
-       
     }
 
     #testimonial-header {
@@ -665,4 +685,9 @@ footer {
     #fresh-face-info {
         flex-direction: column;
     }
+
+    .skin-headings {
+        font-size: 50%;
+    }
 }
+

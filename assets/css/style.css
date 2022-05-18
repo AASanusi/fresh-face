@@ -76,6 +76,7 @@ h4 {
     width: 100%;
     overflow: hidden;
     position: relative;
+    
 }
 
 #hero-image {
@@ -83,6 +84,7 @@ h4 {
     background: url(../images/hero-image.jpg) no-repeat center center;
     background-size: 100%;
     background-position-y: -5px;
+    
 
     /* animates zoom effect on loading page*/
 
@@ -578,12 +580,31 @@ footer {
     }
 }
 
-@media screen and (max-width: 476px) {
+/*For screens size from 500px wide and down */
+
+@media screen and (max-width: 500px) {
+    #we-love-ff-header {
+        font-size: 50%;
+    }
+
+    #testimonial-header {
+        font-size: 50%;
+    }
+
+    #fresh-face-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 300;
+    }
+
     .submit-button {
         padding: 7.5px 16px;
         font-size: 50%;
     }
 }
+
+/*For screens size from 435px wide and down */
 
 @media screen and (max-width: 435px) {
     #menu {
@@ -596,6 +617,8 @@ footer {
         font-size: 250%;
     }
 }
+
+/*For screens size from 355px wide and down */
 
 @media screen and (max-width: 355px) {
     #logo {
@@ -610,5 +633,18 @@ footer {
 
     .contact-info {
         padding: 10px;
+    }
+}
+
+/*For screens size from 300px wide and down */
+
+@media screen and (max-width: 300px) {
+    #we-love-ff-header {
+        font-size: 30%;
+       
+    }
+
+    #testimonial-header {
+        font-size: 30%;
     }
 }

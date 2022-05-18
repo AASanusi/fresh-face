@@ -592,11 +592,25 @@ footer {
     }
 
     #fresh-face-info {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        height: 300;
+        flex-direction: column;
     }
+
+    #right-text > h3 {
+        font-size: 90%;
+    }
+
+    #right-text > p {
+        font-size: 70%;
+    }
+
+    #left-text > h3 {
+        font-size: 90%;
+    }
+
+    #left-text > p {
+        font-size: 70%;
+    }
+
 
     .submit-button {
         padding: 7.5px 16px;
@@ -646,5 +660,9 @@ footer {
 
     #testimonial-header {
         font-size: 30%;
+    }
+
+    #fresh-face-info {
+        flex-direction: column;
     }
 }

@@ -287,6 +287,7 @@ footer {
     width: 33%;
     padding: 5px;
     margin: 30px auto;
+    text-align: justify;
 }
 
 .need {
@@ -296,6 +297,7 @@ footer {
 .need>h4 {
     padding: 20px;
     font-size: larger;
+    text-align: center;
 }
 
 .make {
@@ -306,6 +308,7 @@ footer {
 .make>h4 {
     padding: 20px;
     font-size: larger;
+    text-align: center;
 }
 
 .apply {
@@ -315,15 +318,18 @@ footer {
 .apply>h4 {
     padding: 20px;
     font-size: larger;
+    text-align: center;
 }
 
 .treat {
     margin: 25px 0;
+    text-align: center;
 }
 
 .treat>h4 {
     padding: 20px;
     font-size: larger;
+    text-align: center;
 }
 
 /*Skin charts*/
@@ -626,6 +632,18 @@ footer {
         flex-direction: column;
     }
 
+    .remedies-content h4 {
+        font-size: 90%;
+    }
+
+    .remedies-content li {
+        font-size: 70%;
+    }
+
+    .remedies-content p {
+        font-size: 70%;
+    }
+
     .submit-button {
         padding: 7.5px 16px;
         font-size: 50%;
@@ -690,6 +708,18 @@ footer {
     }
 
     .skin-headings {
+        font-size: 50%;
+    }
+
+    .remedies-content h4 {
+        font-size: 70%;
+    }
+
+    .remedies-content li {
+        font-size: 50%;
+    }
+
+    .remedies-content p {
         font-size: 50%;
     }
 }

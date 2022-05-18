@@ -622,6 +622,9 @@ footer {
         font-size: 75%;
     }
 
+    .remedies-container {
+        flex-direction: column;
+    }
 
     .submit-button {
         padding: 7.5px 16px;

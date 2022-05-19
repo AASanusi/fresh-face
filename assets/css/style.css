@@ -264,12 +264,10 @@ footer {
     color: #ffffff;
 }
 
-
 /* Remedy section*/
 
 #skin-type-container {
     width: 100%;
-    margin: .5rem 0;
     overflow: hidden;
 }
 
@@ -279,15 +277,14 @@ footer {
     background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
-    margin-top: 1rem;
-    border: 1px solid #000000;
-    box-sizing: border-box;
+    font-size: 60%;
 }
 
 /* Each skin remedy section */
 
 .remedies-container {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
 }
@@ -298,7 +295,7 @@ footer {
     height: 300px;
     width: 45%;
     background-size: 100%;
-    padding: 20px;
+    padding: 10px;
 }
 
 .remedies-content {

@@ -71,7 +71,6 @@ h4 {
 
 /* hero image */
 
-
 #hero-header {
     width: 100%;
     overflow: hidden;
@@ -84,7 +83,7 @@ h4 {
     background: url(../images/hero-image.jpg) no-repeat center center;
     background-size: 100%;
     background-position-y: -5px;
-    height: 200px;
+    height: 700px;
 
     /* animates zoom effect on loading page*/
 
@@ -106,15 +105,16 @@ h4 {
 }
 
 #hero-image-text {
+    background-color: rgba(210, 223, 175, .9);
     font-size: 100%;
     letter-spacing: 2px;
     width: 350px;
-    height: 100px;
-    padding: 20px 5px;
-    background-color: rgba(210, 223, 175, .9);
-    bottom: 300px;
-    right: 150px;
+    height: 110px;
+    padding: 10px 5px;
     text-align: center;
+    margin-left: 760px;
+    display: inline-block;
+    margin-top: 200px;
 }
 
 /* about us */
@@ -148,7 +148,6 @@ h4 {
     height: 500px;
     width: 45%;
     background-size: 100%;
-    margin-top: 20px;
 }
 
 #left-image>img {
@@ -160,8 +159,11 @@ h4 {
     letter-spacing: 2px;
     text-align: center;
     width: 100%;
-    padding: 5px;
-    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#right-text > p {
+    padding: 0 5px;
 }
 
 #left-text {
@@ -171,6 +173,10 @@ h4 {
     width: 100%;
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+#left-text > p {
+    padding: 0 5px;
 }
 
 #right-image {
@@ -509,11 +515,28 @@ footer {
 
 /* Media queries */
 
+/* Responsive Breakpoints*/
+
+/* Responsivness for screens size from 1024px wide */
+
+
+/* Responsivness for screens size from 760px wide */
+
+
+
+/* Responsivness for screens size from 320px wide */
+
+
+
+
+
+
+
 /* Home page */
 
 /*For screens size from 1360px wide and down */
 
-@media screen and (max-width: 1360px) {
+/* @media screen and (max-width: 1360px) { 
     #hero-image-text {
         font-size: 90%;
         letter-spacing: 2px;
@@ -529,9 +552,9 @@ footer {
     #testimonial-names {
         flex-direction: column;
     }
-}
+}*/
 
-/*For screens size from 1030px wide and down */
+/*For screens size from 1030px wide and down 
 
 @media screen and (max-width: 1030px) {
     #hero-image-text {
@@ -541,9 +564,9 @@ footer {
         bottom: 390px;
         right: 160px;
     }
-}
+}*/
 
-/*For screens size from 900px wide and down */
+/*For screens size from 900px wide and down 
 
 @media screen and (max-width: 900px) {
     #hero-image-text {
@@ -563,9 +586,9 @@ footer {
         flex-direction: column;
 
     }
-}
+}*/
 
-/*For screens size from 660px wide and down */
+/*For screens size from 660px wide and down 
 
 @media screen and (max-width: 660px) {
     #hero-image-text {
@@ -587,9 +610,9 @@ footer {
         width: 100%;
         line-height: 100px;
     }
-}
+}*/
 
-/*For screens size from 500px wide and down */
+/*For screens size from 500px wide and down 
 
 @media screen and (max-width: 500px) {
     #logo {
@@ -623,9 +646,9 @@ footer {
 
     #left-text > p {
         font-size: 70%;
-    }
+    }*/
 
-/* Remedies section */
+/* Remedies section 
     .skin-headings {
         font-size: 75%;
     }
@@ -650,9 +673,9 @@ footer {
         padding: 7.5px 16px;
         font-size: 50%;
     }
-}
+}*/
 
-/*For screens size from 435px wide and down */
+/*For screens size from 435px wide and down 
 
 @media screen and (max-width: 435px) {
     #menu {
@@ -664,9 +687,9 @@ footer {
         letter-spacing: 2px;
         font-size: 250%;
     }
-}
+}*/
 
-/*For screens size from 355px wide and down */
+/*For screens size from 355px wide and down 
 
 @media screen and (max-width: 355px) {
     #logo {
@@ -682,9 +705,9 @@ footer {
     .contact-info {
         padding: 10px;
     }
-}
+}*/
 
-/*For screens size from 300px wide and down */
+/*For screens size from 300px wide and down 
 
 @media screen and (max-width: 300px) {
     #logo {
@@ -724,5 +747,5 @@ footer {
     .remedies-content p {
         font-size: 50%;
     }
-}
+}*/
 

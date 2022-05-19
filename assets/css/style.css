@@ -222,9 +222,7 @@ h4 {
 
 footer {
     width: 100%;
-    border: 1px solid #000000;
-    box-sizing: border-box;
-    margin: 10px 0;
+    margin: 20px 0;
     background-color: #d2dfafe6;
 }
 

@@ -282,7 +282,14 @@ footer {
 
 /* Each skin remedy section */
 
-.remedies-container {
+.remedies-container-first {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remedies-container-2nd {
     display: flex;
     flex-direction: column;
     justify-content: space-between;

@@ -105,14 +105,15 @@ h4 {
 
 #hero-image-text {
     background-color: rgba(210, 223, 175, .9);
-    font-size: 100%;
-    letter-spacing: 2px;
-    width: 350px;
-    height: 100px;
-    padding: 20px 5px;
-    bottom: 300px;
-    right: 150px;
+    font-size: 30%;
+    letter-spacing: 1px;
+    width: 100px;
+    height: 40px;
+    padding: 7px 2px;
     text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 196px;
 }
 
 /* about us */
@@ -160,28 +161,35 @@ h4 {
 }
 
 #right-text {
-    font-size: 110%;
-    letter-spacing: 2px;
-    text-align: center;
+    font-size: 90%;
+    letter-spacing: 1px;
+    text-align: justify;
     width: 100%;
-    margin-top: 10px;
+    margin: 10px;
+}
+
+#right-text > h3 {
+    text-align: center;
 }
 
 #right-text > p {
-    padding: 0 5px;
+    padding: 0 7px;
 }
 
 #left-text {
-    font-size: 110%;
-    letter-spacing: 2px;
-    text-align: center;
+    font-size: 90%;
+    letter-spacing: 1px;
+    text-align: justify;
     width: 100%;
-    margin-top: 20px;
-    margin-top: 10px;
+    margin: 10px;
+}
+
+#left-text > h3 {
+    text-align: center;
 }
 
 #left-text > p {
-    padding: 0 5px;
+    padding: 0 7px;
 }
 
 #right-image {
@@ -201,10 +209,10 @@ h4 {
 #testimonial-header {
     background-color: #d2dfafe6;
     text-align: center;
-    font-size: 100%;
+    font-size: 40%;
     width: 100%;
     line-height: 100px;
-    margin: 20px 0;
+    margin-top: 10px;
 }
 
 #testimonial-names {
@@ -220,14 +228,18 @@ h4 {
 }
 
 .test-comments {
-    padding: 10px 20px;
+    padding: 0 7px;
+    margin: 10px 10px 0 10px;
+    text-align: justify;
+    font-size: 90%;
+    letter-spacing: 1px;
 }
 
 /* footer */
 
 footer {
     width: 100%;
-    margin: 20px 0 0 0;
+    margin-top: 10px;
     background-color: #d2dfafe6;
 }
 

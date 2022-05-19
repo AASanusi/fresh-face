@@ -84,8 +84,7 @@ h4 {
     background: url(../images/hero-image.jpg) no-repeat center center;
     background-size: 100%;
     background-position-y: -5px;
-    margin: 1rem;
-    
+    height: 200px;
 
     /* animates zoom effect on loading page*/
 

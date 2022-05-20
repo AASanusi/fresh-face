@@ -567,6 +567,12 @@ footer {
     }
 
     /* Skin Chart */
+    .grid-skin-image .image-close-up-dry {
+        height: 300px;
+    }
+    .grid-skin-image>img {
+        padding: 20px;
+    }
 
     /* Contact */
 }

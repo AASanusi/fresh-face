@@ -360,10 +360,11 @@ footer {
 }
 
 #skin-chart-headings {
+    margin-top: 10px;
     background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
-    font-size: 60%;
+    font-size: 80%;
 }
 
 #skin-chart-grid {

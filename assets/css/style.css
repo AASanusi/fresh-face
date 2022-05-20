@@ -46,7 +46,7 @@ h4 {
     line-height: 75px;
 }
 
-#menu>li {
+#menu > li {
     list-style-type: none;
     margin-right: 30px;
     display: inline;
@@ -521,20 +521,75 @@ footer {
 
 /* Responsive Breakpoints */
 
-/* Small devices, 320px and up (landscape phones)  */
-
-
 /* Small devices, 576px and up (landscape phones) */
+@media screen and (min-width: 576px) {
+    /* Home */
+    #logo {
+        float: left;
+        font-size: 280%;
+        margin-left: 135px;
+    }
+    #menu {
+        font-size: 80%;
+        padding-left: 130px;
+        float: left;
+        margin-top: -20px;
+    }
+    #hero-image {
+        height: 350px;
+    }
+    #hero-image-text {
+        font-size: 60%;
+        width: 170px;
+        height: 70px;
+        padding: 7px 2px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 85px;
+        margin-left: 360px;
+    }
+    #right-text > p {
+        padding: 0 10px;
+    }
+    #left-text > p {
+        padding: 0 10px;
+    }
+    #left-image {
+        height: 300px;
+    }
+    #right-image {
+        height: 300px;
+    }
 
+
+    /* Remedies */
+
+    /* Skin Chart */
+
+    /* Contact */
+}
 
 /* Medium devices, 768 and up (tablets) */
+@media screen and (min-width: 768px) {
+    /* Home */
 
+
+    /* Remedies */
+
+    /* Skin Chart */
+
+    /* Contact */
+}
 
 /* Large devices, 992px and up (desktop)  */
-
+@media screen and (min-width: 992px) {
+    
+}
 
 /* Extra Large devices, 1200px and up (large desktops)  */
-
+@media screen and (min-width: 1200px) {
+    
+}
 
 
 

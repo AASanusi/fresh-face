@@ -119,13 +119,11 @@ h4 {
 /* about us */
 
 #we-love-ff-header {
+    margin-top: 10px;
     background-color: #d2dfafe6;
     text-align: center;
-    font-size: 40%;
-    height: 100px;
-    width: 100%;
-    line-height: 100px;
-    margin-top: 10px;
+    padding: 1rem;
+    font-size: 80%;
 }
 
 #fresh-face-info-container {
@@ -207,12 +205,11 @@ h4 {
 /* testimonial */
 
 #testimonial-header {
+    margin-top: 10px;
     background-color: #d2dfafe6;
     text-align: center;
-    font-size: 40%;
-    width: 100%;
-    line-height: 100px;
-    margin-top: 10px;
+    padding: 1rem;
+    font-size: 80%;
 }
 
 #testimonial-names {
@@ -239,7 +236,7 @@ h4 {
 
 footer {
     width: 100%;
-    margin-top: 10px;
+    margin-top: 20px;
     background-color: #d2dfafe6;
 }
 
@@ -274,10 +271,11 @@ footer {
 /* inside the container */
 
 .skin-headings {
+    margin-top: 10px;
     background-color: #d2dfafe6;
     text-align: center;
     padding: 1rem;
-    font-size: 60%;
+    font-size: 80%;
 }
 
 /* Each skin remedy section */

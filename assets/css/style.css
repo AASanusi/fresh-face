@@ -309,11 +309,11 @@ footer {
     font-size: 90%;
     letter-spacing: 1px;
     text-align: justify;
-    padding: 25px;
+    padding: 0 25px;
 }
 
 .need {
-    margin: 25px 0;
+    margin: 0 0 10px 0;
 }
 
 .need>h4 {
@@ -323,7 +323,7 @@ footer {
 }
 
 .make {
-    margin: 25px 0;
+    margin: 0 0 10px 0;
 
 }
 
@@ -334,7 +334,7 @@ footer {
 }
 
 .apply {
-    margin: 25px 0;
+    margin: 0 0 10px 0;
 }
 
 .apply>h4 {
@@ -344,7 +344,7 @@ footer {
 }
 
 .treat {
-    margin: 25px 0;
+    margin: 0 0 10px 0;
 }
 
 .treat>h4 {

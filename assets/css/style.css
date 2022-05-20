@@ -588,7 +588,49 @@ footer {
         float: right;
         padding-left: 0;
         margin-top: 0;
+        letter-spacing: 1px;
     }
+
+    #hero-image {
+        height: 450px;
+    }
+
+    #hero-image-text {
+        font-size: 80%;
+        width: 220px;
+        height: 100px;
+        padding: 7px 2px;
+        text-align: center;
+        margin-top: 120px;
+        margin-left: 485px;
+        letter-spacing: 2px;
+    }
+    #we-love-ff-header {
+        font-size: 100%;
+        margin-bottom: 10px;
+    }
+    #fresh-face-info-first {
+        flex-direction: row;
+    }
+    #fresh-face-info-2nd {
+        flex-direction: row;
+    }
+    #left-image {
+        height: 400px;
+        padding-left: 10px;
+    }
+    #right-text {
+        text-align: center;
+    }
+    #left-text {
+        text-align: center;
+    }
+    #right-image {
+        height: 400px;
+        padding-right: 10px;
+    }
+    
+}
 
     /* Remedies */
 

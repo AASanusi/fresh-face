@@ -46,7 +46,7 @@ h4 {
     line-height: 75px;
 }
 
-#menu > li {
+#menu>li {
     list-style-type: none;
     margin-right: 30px;
     display: inline;
@@ -74,7 +74,7 @@ h4 {
     width: 100%;
     overflow: hidden;
     position: relative;
-    
+
 }
 
 #hero-image {
@@ -166,11 +166,11 @@ h4 {
     margin: 10px;
 }
 
-#right-text > h3 {
+#right-text>h3 {
     text-align: center;
 }
 
-#right-text > p {
+#right-text>p {
     padding: 0 7px;
 }
 
@@ -182,11 +182,11 @@ h4 {
     margin: 10px;
 }
 
-#left-text > h3 {
+#left-text>h3 {
     text-align: center;
 }
 
-#left-text > p {
+#left-text>p {
     padding: 0 7px;
 }
 
@@ -198,7 +198,7 @@ h4 {
     background-size: 100%;
 }
 
-#right-image > img {
+#right-image>img {
     height: 100%;
 }
 
@@ -523,21 +523,25 @@ footer {
 
 /* Small devices, 576px and up (landscape phones) */
 @media screen and (min-width: 576px) {
+
     /* Home */
     #logo {
         float: left;
         font-size: 280%;
         margin-left: 135px;
     }
+
     #menu {
         font-size: 80%;
         padding-left: 130px;
         float: left;
         margin-top: -20px;
     }
+
     #hero-image {
         height: 350px;
     }
+
     #hero-image-text {
         font-size: 60%;
         width: 170px;
@@ -548,15 +552,19 @@ footer {
         margin-top: 85px;
         margin-left: 360px;
     }
-    #right-text > p {
+
+    #right-text>p {
         padding: 0 10px;
     }
-    #left-text > p {
+
+    #left-text>p {
         padding: 0 10px;
     }
+
     #left-image {
         height: 300px;
     }
+
     #right-image {
         height: 300px;
     }
@@ -570,6 +578,7 @@ footer {
     .grid-skin-image .image-close-up-dry {
         height: 300px;
     }
+
     .grid-skin-image>img {
         padding: 20px;
     }
@@ -579,11 +588,12 @@ footer {
 
 /* Medium devices, 768 and up (tablets) */
 @media screen and (min-width: 768px) {
+
     /* Home */
     #logo {
         margin-left: 10px;
     }
-    
+
     #menu {
         float: right;
         padding-left: 0;
@@ -605,51 +615,54 @@ footer {
         margin-left: 485px;
         letter-spacing: 2px;
     }
+
     #we-love-ff-header {
         font-size: 100%;
         margin-bottom: 10px;
     }
+
     #fresh-face-info-first {
         flex-direction: row;
     }
+
     #fresh-face-info-2nd {
         flex-direction: row;
     }
+
     #left-image {
         height: 400px;
         padding-left: 10px;
     }
+
     #right-text {
         text-align: center;
     }
+
     #left-text {
         text-align: center;
     }
+
     #right-image {
         height: 400px;
         padding-right: 10px;
     }
-    
+
 }
 
-    /* Remedies */
+/* Remedies */
 
 
-    /* Skin Chart */
+/* Skin Chart */
 
 
-    /* Contact */
-}
+/* Contact */
+
 
 /* Large devices, 992px and up (desktop)  */
-@media screen and (min-width: 992px) {
-    
-}
+@media screen and (min-width: 992px) {}
 
 /* Extra Large devices, 1200px and up (large desktops)  */
-@media screen and (min-width: 1200px) {
-    
-}
+@media screen and (min-width: 1200px) {}
 
 
 
@@ -872,4 +885,3 @@ footer {
         font-size: 50%;
     }
 }*/
-

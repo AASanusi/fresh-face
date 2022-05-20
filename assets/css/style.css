@@ -580,11 +580,21 @@ footer {
 /* Medium devices, 768 and up (tablets) */
 @media screen and (min-width: 768px) {
     /* Home */
-
+    #logo {
+        margin-left: 10px;
+    }
+    
+    #menu {
+        float: right;
+        padding-left: 0;
+        margin-top: 0;
+    }
 
     /* Remedies */
 
+
     /* Skin Chart */
+
 
     /* Contact */
 }

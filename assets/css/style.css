@@ -751,10 +751,6 @@ footer {
         padding: 20px;
     }
 
-    #oily-img {
-
-    }
-
     .remedies-content {
         font-size: 110%;
         letter-spacing: 2px;
@@ -763,6 +759,37 @@ footer {
     }
 
     /* Skin Chart */
+    #skin-chart-headings {
+        height: 100px;
+        line-height: 100px;
+        margin: 20px 0;
+        padding: 10px 0;
+        font-size: 110%;
+    }
+
+    .grid-skin-image > img {
+        max-width: 100%;
+        padding: 20px 120px;
+    }
+
+    .grid-skin-image .image-close-up {
+        height: 300px;
+        object-fit: cover;
+        padding-left: 20px;
+    }
+
+    .grid-skin-image .image-close-up-dry {
+        height: 300px;
+        object-fit: cover;
+        width: 200px;
+        padding-left: 20px;
+    }
+
+    .grid-skin-sypmtoms {
+        padding: 125px 10px;
+        margin: 5px 5px;
+        text-align: center;
+    }
 
 
     /* Contact */

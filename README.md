@@ -176,3 +176,55 @@ The features on this website was created to aid users to be able to navigate the
 </ul>
 
 <img section>
+
+Features left to implement
+
+# Technologies Used
+
+<strong>Languages Used</strong>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CSS">CSS3</a></li>
+</ul>
+
+<strong>Frameworks, Libraries & Programs Used</strong>
+<ol>
+<li><a href="https://balsamiq.com/">Balsamiq:</a>
+<ul>
+<li>Balsamiq was used to create the basic frameworks of the project to which helped to coding the website</li>
+</ul>
+</li>
+<li><a href="https://fonts.google.com/">Google Fonts:</a>
+<ul>
+<li>Google fonts was used to import "Playfair Display" and "Lato" fonts into styles.css and this was used throughout the website</li>
+</ul>
+</li>
+<li><a href="https://fontawesome.com/">Font Awesome:</a>
+<ul>
+<li>Font Awesome was mainly used to create the social media icons in the footer to provide a visual link for the users to click and access the social media accounts. It was also used for the copyright icon.</li>
+</ul>
+</li>
+<li>Git
+<ul>
+<li>Git was used in the Gitpod terminal to add, commit and push code to Github</li>
+</ul>
+</li>
+<li>Gitpod
+<ul>
+<li>Gitpod was the open-source developer platform that was used to write code</li>
+</ul>
+</li>
+<li><a href="https://github.com/">Github:</a>
+<ul>
+<li>Github was used to hold and keep the pushed codes by Git and store projects</li>
+</ul>
+</li>
+<li><a href="https://github.com/Code-Institute-Org/gitpod-full-template">Gitpod Full Template:</a>
+<ul>
+<li>Gitpod Full Template provided by code institute to which has all the tools to aid us with our coding</li>
+</ul>
+</li>
+</ol>
+<br>
+
+

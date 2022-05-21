@@ -79,3 +79,93 @@ The features on this website was created to aid users to be able to navigate the
 </ul>
 </li>
 </ul>
+
+## Existing Features 
+<ul>
+<li> <strong>Navigation Bar</strong>
+<ul>
+<br>
+<li>Consists of the logo of the website and the navigation links such as the Home page, Remedies page, Skin Chart page and COntact Us page. They are all present, identical and consistent across all four pages.</li>
+<li>This was created to aid the users to navigate each page by being able to hop from one page to another with ease. Logo was also created to be able to link back to the Home page when clicked on.</li>
+</ul>
+</li>
+</ul>
+<br>
+<img src="assets/images/navigation-bar.png">
+<br>
+<ul>
+<li>Hero Image and Hero Text Message
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>
+
+<ul>
+<li>We Love Fresh Face Remedies Section
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>
+
+<ul>
+<li>Testimonials Section
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>
+
+<ul>
+<li>The Footer
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>
+
+<ul>
+<li>Remedies Page
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>
+
+<ul>
+<li>Skin Chart Page
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>
+
+<ul>
+<li>Contact Us Page
+<ul>
+<li></li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+<img section>

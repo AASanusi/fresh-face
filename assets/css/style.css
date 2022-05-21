@@ -807,6 +807,22 @@ footer {
         font-size: 110%;
     }
 
+    #skin-chart-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 20px;
+    }
+
+    .grid-skin-type {
+        padding: 50px 10px;
+        margin: 5px 5px;
+        text-align: center;
+        font-size: larger;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
     .grid-skin-image>img {
         max-width: 100%;
         padding: 20px 120px;

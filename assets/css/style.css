@@ -791,8 +791,12 @@ footer {
         text-align: center;
     }
 
-
     /* Contact */
+    .feedback-form {
+        margin-top: 2%;
+    }
+
+
 }
 
 /* Extra Large devices, 1200px and up (large desktops)  */

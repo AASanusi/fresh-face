@@ -647,6 +647,11 @@ footer {
         padding-right: 10px;
     }
 
+    #testimonial-header {
+        font-size: 100%;
+        margin-bottom: 10px;
+    }
+
     /* Remedies */
 
 
@@ -680,6 +685,48 @@ footer {
         margin-top: 160px;
         margin-left: 620px;
         letter-spacing: 2px;
+    }
+
+    #we-love-ff-header {
+        height: 100px;
+        line-height: 100px;
+        margin: 20px 0;
+        padding: 10px 0;
+        font-size: 110%;
+    }
+
+    #left-image {
+        height: 500px;
+        width: 45%;
+    }
+
+    #right-text {
+        font-size: 110%;
+        letter-spacing: 2px;
+    }
+
+    #left-text {
+        font-size: 110%;
+        letter-spacing: 2px;
+    }
+
+    #right-image {
+        height: 500px;
+        width: 45%;
+    }
+
+    #testimonial-header {
+        height: 100px;
+        line-height: 100px;
+        margin: 20px 0;
+        padding: 10px 0;
+        font-size: 110%;
+    }
+
+    .test-comments {
+        padding: 0 15px;
+        margin: 0 5px 20px 5px;
+        font-size: 100%;
     }
 
     /* Remedies */

@@ -767,7 +767,7 @@ footer {
         font-size: 110%;
     }
 
-    .grid-skin-image > img {
+    .grid-skin-image>img {
         max-width: 100%;
         padding: 20px 120px;
     }
@@ -795,14 +795,22 @@ footer {
     .feedback-form {
         margin-top: 2%;
     }
-
-
 }
 
 /* Extra Large devices, 1200px and up (large desktops)  */
 @media screen and (min-width: 1200px) {
-    /* Home*/
 
+    /* Home*/
+    #hero-image {
+        height: 700px;
+    }
+
+    #hero-image-text {
+        width: 350px;
+        height: 110px;
+        margin-top: 230px;
+        margin-left: 760px;
+    }
 
     /* Remedies */
 

@@ -13,6 +13,9 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 # Contents
 <ul>
+<li>
+User Experience (UX)
+<ul>
 <li> User Stories
 <ul>
 <li>First Time User</li>
@@ -20,10 +23,16 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 </ul>
 </li>
 </ul>
+<ul>
+<li>Design</li>
+</ul>
+</li>
+</ul>
+
 
 # User Experience (UX)
 <ul>
-<li> User Stories
+<li> <strong>User Stories</strong>
 <ul>
 <li>First Time User
 <ol>
@@ -42,3 +51,31 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 </ul>
 </ul>
 
+<ul>
+<li><strong>Design</strong></li>
+</ul>
+
+# Features
+The features on this website was created to aid users to be able to navigate the site and finding all the information they require to combat their skin. This website consists of the following 4 pages:
+<ul>
+<li><strong>Home</strong>
+<ul>
+<li>Fresh Face logo, navigation links, images and informational content about Fresh Face, testimonial and footer page</li>
+</ul>
+</li>
+<li><strong>Remedies</strong>
+<ul>
+<li>Fresh Face logo, navigation links, skin care remedies for each skin type and footer page</li>
+</ul>
+</li>
+<li><strong>Skin Chart</strong>
+<ul>
+<li>Fresh Face logo, navigation links, skin chart to find out skin type and footer page</li>
+</ul>
+</li>
+<li><strong>Contact Us</strong>
+<ul>
+<li>Fresh Face logo, navigation links, contact form for questions/feedbacks, contact address and footer page</li>
+</ul>
+</li>
+</ul>

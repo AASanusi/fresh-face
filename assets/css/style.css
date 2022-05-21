@@ -298,7 +298,6 @@ footer {
     display: flex;
     justify-content: center;
     height: 300px;
-    width: 45%;
     background-size: 100%;
     padding: 10px;
 }
@@ -730,7 +729,38 @@ footer {
     }
 
     /* Remedies */
+    .skin-headings {
+        font-size: 100%;
+    }
 
+    .remedies-container-first {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .remedies-container-2nd {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .remedies-image {
+        padding: 20px;
+    }
+
+    #oily-img {
+
+    }
+
+    .remedies-content {
+        font-size: 110%;
+        letter-spacing: 2px;
+        text-align: center;
+        width: 45%;
+    }
 
     /* Skin Chart */
 

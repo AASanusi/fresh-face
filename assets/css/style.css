@@ -740,6 +740,7 @@ footer {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        padding: 0 3% 0 3%;
     }
 
     .remedies-container-2nd {
@@ -747,10 +748,12 @@ footer {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        padding: 0 3% 0 3%;
     }
 
     .remedies-image {
         padding: 20px;
+        width: 45%;
     }
 
     .remedies-content {
@@ -871,7 +874,6 @@ footer {
     }
 
     /* Remedies */
-
 
     /* Skin Chart */
 

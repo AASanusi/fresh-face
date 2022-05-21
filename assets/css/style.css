@@ -166,11 +166,12 @@ h4 {
     margin: 10px;
 }
 
-#right-text>h3 {
+#right-text > h3 {
     text-align: center;
+    margin: 10px;
 }
 
-#right-text>p {
+#right-text > p {
     padding: 0 7px;
 }
 
@@ -182,11 +183,12 @@ h4 {
     margin: 10px;
 }
 
-#left-text>h3 {
+#left-text > h3 {
     text-align: center;
+    margin: 10px;
 }
 
-#left-text>p {
+#left-text > p {
     padding: 0 7px;
 }
 
@@ -217,19 +219,13 @@ h4 {
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
+    margin: 0 20px 0 20px;
 }
 
 #testimonial-names h3 {
     text-align: center;
     font-size: larger;
-}
-
-.test-comments {
-    padding: 0 5px;
-    margin: 10px 5px 0 5px;
-    text-align: justify;
-    font-size: 90%;
-    letter-spacing: 1px;
+    margin: 10px;
 }
 
 /* footer */
@@ -386,7 +382,7 @@ footer {
     align-items: center;
 }
 
-.grid-skin-image > img {
+.grid-skin-image>img {
     max-width: 100%;
 }
 
@@ -394,7 +390,6 @@ footer {
     height: 300px;
     object-fit: cover;
 }
-
 
 .grid-skin-image .image-close-up-dry {
     height: 300px;
@@ -554,6 +549,16 @@ footer {
         margin-left: 360px;
     }
 
+    #right-text {
+        font-size: 110%;
+        letter-spacing: 2px;
+    }
+    
+    #left-text {
+        font-size: 110%;
+        letter-spacing: 2px;
+    }
+
     #right-text>p {
         padding: 0 10px;
     }
@@ -583,8 +588,6 @@ footer {
     .grid-skin-image>img {
         padding: 20px;
     }
-
-    /* Contact */
 }
 
 /* Medium devices, 768 and up (tablets) */
@@ -701,11 +704,6 @@ footer {
         letter-spacing: 2px;
     }
 
-    #right-image {
-        height: 500px;
-        width: 45%;
-    }
-
     #testimonial-header {
         height: 100px;
         line-height: 100px;
@@ -757,7 +755,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .need > h4 {
+    .need>h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -767,7 +765,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .make > h4 {
+    .make>h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -777,7 +775,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .apply > h4 {
+    .apply>h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -787,7 +785,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .treat > h4 {
+    .treat>h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -857,17 +855,34 @@ footer {
     }
 
     #hero-image-text {
-        width: 350px;
-        height: 110px;
-        margin-top: 230px;
-        margin-left: 900px;
+        width: 400px;
+        height: 120px;
+        margin-top: 300px;
+        margin-left: 1080px;
+        font-size: 120%;
     }
 
-    /* Remedies */
+    #we-love-ff-header {
+        font-size: 130%;
+    }
 
-    /* Skin Chart */
+    #right-text {
+        font-size: 130%;
+        letter-spacing: 4px;
+    }
 
+    #left-text {
+        font-size: 130%;
+        letter-spacing: 4px;
 
-    /* Contact */
+    }
+
+    .test-comments {
+        font-size: 130%;
+        letter-spacing: 2px;
+    }
+
+    #testimonial-header {
+        font-size: 130%;
+    }
 }
-

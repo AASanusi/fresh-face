@@ -859,18 +859,18 @@ footer {
 }
 
 /* Extra Large devices, 1200px and up (large desktops)  */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) and (max-width: 1680px) {
 
     /* Home*/
     #hero-image {
-        height: 700px;
+        height: 900px;
     }
 
     #hero-image-text {
         width: 350px;
         height: 110px;
         margin-top: 230px;
-        margin-left: 760px;
+        margin-left: 900px;
     }
 
     /* Remedies */

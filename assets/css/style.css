@@ -647,241 +647,56 @@ footer {
         padding-right: 10px;
     }
 
+    /* Remedies */
+
+
+    /* Skin Chart */
+
+
+    /* Contact */
+
 }
-
-/* Remedies */
-
-
-/* Skin Chart */
-
-
-/* Contact */
 
 
 /* Large devices, 992px and up (desktop)  */
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+
+    /* Home*/
+    #menu {
+        font-size: 90%;
+        letter-spacing: 4px;
+    }
+
+    #hero-image-text {
+        font-size: 100%;
+        width: 300px;
+        height: 120px;
+        padding: 10px 5px;
+        text-align: center;
+        margin-top: 160px;
+        margin-left: 620px;
+        letter-spacing: 2px;
+    }
+
+    /* Remedies */
+
+
+    /* Skin Chart */
+
+
+    /* Contact */
+}
 
 /* Extra Large devices, 1200px and up (large desktops)  */
-@media screen and (min-width: 1200px) {}
+@media screen and (min-width: 1200px) {
+    /* Home*/
 
 
+    /* Remedies */
 
 
+    /* Skin Chart */
 
 
-/* Home page */
-
-/*For screens size from 1360px wide and down */
-
-/* @media screen and (max-width: 1360px) { 
-    #hero-image-text {
-        font-size: 90%;
-        letter-spacing: 2px;
-        width: 225px;
-        height: 110px;
-        padding: 10px 10px;
-        background-color: rgba(210, 223, 175, .9);
-        bottom: 320px;
-        right: 140px;
-        text-align: center;
-    }
-
-    #testimonial-names {
-        flex-direction: column;
-    }
-}*/
-
-/*For screens size from 1030px wide and down 
-
-@media screen and (max-width: 1030px) {
-    #hero-image-text {
-        font-size: 80%;
-        width: 105px;
-        height: 190px;
-        bottom: 390px;
-        right: 160px;
-    }
-}*/
-
-/*For screens size from 900px wide and down 
-
-@media screen and (max-width: 900px) {
-    #hero-image-text {
-        font-size: 65%;
-        height: 140px;
-        padding: 10px 5px;
-        bottom: 490px;
-        right: 110px;
-    }
-
-    #menu {
-        letter-spacing: 2px;
-        clear: both;
-    }
-
-    .remedies-content {
-        flex-direction: column;
-
-    }
-}*/
-
-/*For screens size from 660px wide and down 
-
-@media screen and (max-width: 660px) {
-    #hero-image-text {
-        font-size: 40%;
-        height: 50px;
-        padding: 10px 5px;
-        bottom: 560px;
-        right: 70px;
-    }
-
-    #we-love-ff-header {
-        font-size: 80%;
-        width: 100%;
-        line-height: 100px;
-    }
-
-    #testimonial-header {
-        font-size: 100%;
-        width: 100%;
-        line-height: 100px;
-    }
-}*/
-
-/*For screens size from 500px wide and down 
-
-@media screen and (max-width: 500px) {
-    #logo {
-        font-size: 200%;
-        margin-bottom: -30px;
-    } 
-
-    #we-love-ff-header {
-        font-size: 50%;
-    }
-
-    #testimonial-header {
-        font-size: 50%;
-    }
-
-    #fresh-face-info {
-        flex-direction: column;
-    }
-
-    #right-text > h3 {
-        font-size: 90%;
-    }
-
-    #right-text > p {
-        font-size: 70%;
-    }
-
-    #left-text > h3 {
-        font-size: 90%;
-    }
-
-    #left-text > p {
-        font-size: 70%;
-    }*/
-
-/* Remedies section 
-    .skin-headings {
-        font-size: 75%;
-    }
-
-    .remedies-container {
-        flex-direction: column;
-    }
-
-    .remedies-content h4 {
-        font-size: 90%;
-    }
-
-    .remedies-content li {
-        font-size: 70%;
-    }
-
-    .remedies-content p {
-        font-size: 70%;
-    }
-
-    .submit-button {
-        padding: 7.5px 16px;
-        font-size: 50%;
-    }
-}*/
-
-/*For screens size from 435px wide and down 
-
-@media screen and (max-width: 435px) {
-    #menu {
-        letter-spacing: 2px;
-        font-size: 60%;
-    }
-
-    #logo {
-        letter-spacing: 2px;
-        font-size: 250%;
-    }
-}*/
-
-/*For screens size from 355px wide and down 
-
-@media screen and (max-width: 355px) {
-    #logo {
-        letter-spacing: 2px;
-        font-size: 200%;
-    }
-
-    #menu {
-        letter-spacing: 2px;
-        font-size: 30%;
-    }
-
-    .contact-info {
-        padding: 10px;
-    }
-}*/
-
-/*For screens size from 300px wide and down 
-
-@media screen and (max-width: 300px) {
-    #logo {
-        font-size: 200%;
-        margin-bottom: -30px;
-    }
-
-    #menu {
-        font-size: 20%;
-        padding: 5px 5px;
-        margin: 5px 0;
-    }
-    #we-love-ff-header {
-        font-size: 30%;
-    }
-
-    #testimonial-header {
-        font-size: 30%;
-    }
-
-    #fresh-face-info {
-        flex-direction: column;
-    }
-
-    .skin-headings {
-        font-size: 50%;
-    }
-
-    .remedies-content h4 {
-        font-size: 70%;
-    }
-
-    .remedies-content li {
-        font-size: 50%;
-    }
-
-    .remedies-content p {
-        font-size: 50%;
-    }
-}*/
+    /* Contact */
+}

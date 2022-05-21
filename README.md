@@ -10,6 +10,7 @@ This site is targeted to individuals mainly women who are looking to improve the
 HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is accesible toa broad range of devices and quite simple navigaate for all users.
 
 (will add screenshot of website responsiveness on different devices)
+<br>
 
 # Contents
 <ul>
@@ -28,7 +29,7 @@ User Experience (UX)
 </ul>
 </li>
 </ul>
-
+<br>
 
 # User Experience (UX)
 <ul>
@@ -54,6 +55,7 @@ User Experience (UX)
 <ul>
 <li><strong>Design</strong></li>
 </ul>
+<br>
 
 # Features
 The features on this website was created to aid users to be able to navigate the site and finding all the information they require to combat their skin. This website consists of the following 4 pages:
@@ -178,6 +180,7 @@ The features on this website was created to aid users to be able to navigate the
 <img section>
 
 Features left to implement
+<br>
 
 # Technologies Used
 
@@ -226,5 +229,7 @@ Features left to implement
 </li>
 </ol>
 <br>
+
+# Testing
 
 

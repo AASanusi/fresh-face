@@ -667,6 +667,10 @@ footer {
         letter-spacing: 4px;
     }
 
+    #hero-image {
+        height: 600px;
+    }
+
     #hero-image-text {
         font-size: 100%;
         width: 300px;

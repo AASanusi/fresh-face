@@ -758,6 +758,46 @@ footer {
         width: 45%;
     }
 
+    .need {
+        margin: 0 0 10px 0;
+    }
+
+    .need > h4 {
+        padding: 20px;
+        font-size: larger;
+        text-align: center;
+    }
+
+    .make {
+        margin: 0 0 10px 0;
+    }
+
+    .make > h4 {
+        padding: 20px;
+        font-size: larger;
+        text-align: center;
+    }
+
+    .apply {
+        margin: 0 0 10px 0;
+    }
+
+    .apply > h4 {
+        padding: 20px;
+        font-size: larger;
+        text-align: center;
+    }
+
+    .treat {
+        margin: 0 0 10px 0;
+    }
+
+    .treat > h4 {
+        padding: 20px;
+        font-size: larger;
+        text-align: center;
+    }
+
     /* Skin Chart */
     #skin-chart-headings {
         height: 100px;

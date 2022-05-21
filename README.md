@@ -12,11 +12,33 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 (will add screenshot of website responsiveness on different devices)
 
 # Contents
-User Experience (UX)
 <ul>
-<li>User stories
-<li>Current Users</li>
-<li>New Users</li> 
+<li> User Stories
+<ul>
+<li>First Time User</li>
+<li>Revisiting User
+</ul>
 </li>
+</ul>
+
+# User Experience (UX)
+<ul>
+<li> User Stories
+<ul>
+<li>First Time User
+<ol>
+<li>As a first time user, I want to be sold on why to use Fresh Face remedies instead of buying branded skincare.</li>
+<li>As a first time user, I want to find it easy to navigate the site.</li>
+<li>As a first time user, I want to able find skin care remedies for my skin type.</li>
+<li>As a first time user that don't know their skin type, I want to be able to determine type of skin type I have.</li>
+<li>As a first time user, I want to be able to find your social media accounts.</li>
+</ol>
+</li>
+<li>Revisiting User
+<ol>
+<li>As a revisiting user, I want to be able to contact the organisation if I have any questions</li>
+<li>As a revisiting user, I want to be able to find monthly updates on the skin care remedy</li>
+</ol>
+</ul>
 </ul>
 

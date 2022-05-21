@@ -93,11 +93,12 @@ The features on this website was created to aid users to be able to navigate the
 <br>
 <img src="assets/images/navigation-bar.png">
 <br>
+<br>
 <ul>
-<li>Hero Image and Hero Text Message
+<li><strong>Hero Image</strong>
 <ul>
-<li></li>
-<li></li>
+<li>This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the company. </li>
+<li>The image has an animation on it that zooms forward to which draws the user to what Fresh Face is about.</li>
 </ul>
 </li>
 </ul>
@@ -107,8 +108,14 @@ The features on this website was created to aid users to be able to navigate the
 <ul>
 <li>We Love Fresh Face Remedies Section
 <ul>
-<li></li>
-<li></li>
+<li>This section provides information on what Fresh Face is and its purpose. This section is broken into two sections:
+<ul>
+<li>What is Fresh Face</li>
+<li>Why you need Fresh Face!</li>
+</ul>
+</li>
+<li>The information about Fresh Face is intended to help user understand the website and to commit them to keep scrolling the page as it also provides them with information as to why it's important to use our remedies.</li>
+<li>This is intended to encourage users from using our recommended remedies. </li>
 </ul>
 </li>
 </ul>

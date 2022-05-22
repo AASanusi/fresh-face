@@ -153,7 +153,18 @@ The features on this website was created to aid users to be able to navigate the
 <img src="assets/images/we-love-ff-section-img-2.png">
 
 <ul>
-<li>Testimonials Section
+<li><strong>Testimonials Section</strong>
+<ul>
+<li>This section provides the user information about past users describing how using Fresh Face remedies has helped them combat issues with their skin and at the same time save money on expensive skin care brands </li>
+<li>This section is intended to gain the trust of the user and to show that Fresh Face remedies work</li>
+</ul>
+</li>
+</ul>
+
+<img src="assets/images/testimonials-image.png" alt="Screenshot of the testimonial section">
+
+<ul>
+<li><strong>The Footer</strong>
 <ul>
 <li></li>
 <li></li>
@@ -164,7 +175,7 @@ The features on this website was created to aid users to be able to navigate the
 <img section>
 
 <ul>
-<li>The Footer
+<li><strong>Remedies Page</strong>
 <ul>
 <li></li>
 <li></li>
@@ -175,7 +186,7 @@ The features on this website was created to aid users to be able to navigate the
 <img section>
 
 <ul>
-<li>Remedies Page
+<li><strong>Skin Chart Page</strong>
 <ul>
 <li></li>
 <li></li>
@@ -186,18 +197,7 @@ The features on this website was created to aid users to be able to navigate the
 <img section>
 
 <ul>
-<li>Skin Chart Page
-<ul>
-<li></li>
-<li></li>
-</ul>
-</li>
-</ul>
-
-<img section>
-
-<ul>
-<li>Contact Us Page
+<li><strong>Contact Us Page</strong>
 <ul>
 <li></li>
 <li></li>

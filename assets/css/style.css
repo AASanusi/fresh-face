@@ -615,6 +615,26 @@ footer {
         flex-direction: row;
     }
 
+    .remedies-content {
+        text-align: justify;
+    }
+
+    .need > h4 {
+        text-align: justify;
+    }
+
+    .make > h4 {
+        text-align: justify;
+    }
+
+    .apply > h4 {
+        text-align: justify;
+    }
+
+    .treat > h4 {
+        text-align: justify;
+    }
+
     #left-image {
         height: 400px;
         padding-left: 10px;
@@ -736,6 +756,7 @@ footer {
         letter-spacing: 2px;
         text-align: center;
         width: 45%;
+        text-align: justify;
     }
 
     .need {
@@ -745,7 +766,7 @@ footer {
     .need > h4 {
         padding: 20px;
         font-size: larger;
-        text-align: center;
+        text-align: justify;
     }
 
     .make {
@@ -755,7 +776,7 @@ footer {
     .make > h4 {
         padding: 20px;
         font-size: larger;
-        text-align: center;
+        text-align: justify;
     }
 
     .apply {
@@ -765,7 +786,7 @@ footer {
     .apply > h4 {
         padding: 20px;
         font-size: larger;
-        text-align: center;
+        text-align: justify;
     }
 
     .treat {
@@ -775,7 +796,7 @@ footer {
     .treat > h4 {
         padding: 20px;
         font-size: larger;
-        text-align: center;
+        text-align: justify;
     }
 
     /* Skin Chart */
@@ -898,6 +919,26 @@ footer {
         margin: 5px 5px;
         font-size: 20px;
     }
+
+    .remedies-content {
+        text-align: justify;
+    }
+
+    .need > h4 {
+        text-align: justify;
+    }
+
+    .make > h4 {
+        text-align: justify;
+    }
+
+    .apply > h4 {
+        text-align: justify;
+    }
+
+    .treat > h4 {
+        text-align: justify;
+}
 }
 
 /* Extra Large devices, 1600px and up (large desktops)  */
@@ -973,4 +1014,24 @@ footer {
         margin: 5px 5px;
         font-size: 25px;
     }
+
+    .remedies-content {
+        text-align: justify;
+    }
+
+    .need > h4 {
+        text-align: justify;
+    }
+
+    .make > h4 {
+        text-align: justify;
+    }
+
+    .apply > h4 {
+        text-align: justify;
+    }
+
+    .treat > h4 {
+        text-align: justify;
+}
 }

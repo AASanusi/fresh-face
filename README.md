@@ -389,14 +389,7 @@ Performance score
 </ul>
 
 ### Unfixed Bugs
-<strong>Home Page:</strong>
-<ul>
-<li>Unfixed Bug
-<ul>
-<li>Logo and Navigation links to pages was spaced out from each other at 320px screen size</li>
-</ul>
-</li>
-</ul>
+N/A
 
 ## Deployment
 The open source developer environment used to write and edit code was Gitpod. Git was used to add, commit and push code to Github. Github is the hosting used to store pushed codes by Git.

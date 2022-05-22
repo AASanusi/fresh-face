@@ -166,12 +166,12 @@ h4 {
     margin: 10px;
 }
 
-#right-text > h3 {
+#right-text>h3 {
     text-align: center;
     margin: 10px;
 }
 
-#right-text > p {
+#right-text>p {
     padding: 0 7px;
 }
 
@@ -183,12 +183,12 @@ h4 {
     margin: 10px;
 }
 
-#left-text > h3 {
+#left-text>h3 {
     text-align: center;
     margin: 10px;
 }
 
-#left-text > p {
+#left-text>p {
     padding: 0 7px;
 }
 
@@ -553,7 +553,7 @@ footer {
         font-size: 110%;
         letter-spacing: 2px;
     }
-    
+
     #left-text {
         font-size: 110%;
         letter-spacing: 2px;
@@ -816,7 +816,7 @@ footer {
         align-items: center;
     }
 
-    .grid-skin-image > img {
+    .grid-skin-image>img {
         max-width: 100%;
         padding: 20px 120px;
     }

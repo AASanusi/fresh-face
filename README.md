@@ -236,7 +236,18 @@ The features on this website was created to aid users to be able to navigate the
 <strong>Image - Contact Details</strong>
 <img src="assets/images/screenshot-contacts.png" alt="Screenshot of contact details">
 <br>
+
 ## Features left to implement
+<ul>
+<li><strong>Future features will be:</strong>
+<ul>
+<br>
+<li>Adding dropdown menu and links to each remedy section when clicked on remedies on the navigation bar</li>
+<li>Developing the skin chart page into a proper chart for users to visualize and determine thier skin type</li>
+<li>Using JavaScript, to add a feature that links the skin chart page to the remedies page. To create a feature on the skin chart page to which to once user determines their skin type they can click on it and it will automatically redirect them to the remedies page and to the specific remdy associated with that skin type.</li>
+</ul>
+</li>
+</ul>
 <br>
 
 # Technologies Used

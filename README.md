@@ -37,7 +37,7 @@ User Experience (UX)
 </ul>
 
 <ul>
-<li>Features
+<li>[Features] (#feature)
 <ul>
 <li>Home</li>
 <li>Remedies</li>
@@ -126,7 +126,7 @@ User Experience (UX)
 </ul>
 <br>
 
-# Features
+# Features <a name="feature"></a>
 The features on this website was created to aid users to be able to navigate the site and finding all the information they require to combat their skin. This website consists of the following 4 pages:
 <ul>
 <li><strong>Home</strong>

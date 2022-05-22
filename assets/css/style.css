@@ -855,11 +855,11 @@ footer {
     }
 
     #hero-image-text {
-        width: 350px;
-        height: 120px;
-        margin-top: 220px;
+        width: 380px;
+        height: 170px;
+        margin-top: 180px;
         margin-left: 800px;
-        font-size: 110%;
+        font-size: 140%;
     }
 
     #we-love-ff-header {
@@ -888,20 +888,20 @@ footer {
 }
 
 
-/* Extra Large devices, 1680px and up (large desktops)  */
-@media screen and (min-width: 1680px) {
+/* Extra Large devices, 1600px and up (large desktops)  */
+@media screen and (min-width: 1600px) {
 
     /* Home*/
     #hero-image {
-        height: 900px;
+        height: 1000px;
     }
 
     #hero-image-text {
-        width: 500px;
-        height: 170px;
-        margin-top: 580px;
-        margin-left: 1050px;
-        font-size: 160%;
+        width: 490px;
+        height: 215px;
+        margin-top: 230px;
+        margin-left: 995px;
+        font-size: 180%;
     }
 
     #we-love-ff-header {

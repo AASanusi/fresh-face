@@ -9,7 +9,7 @@ This site is targeted to individuals mainly women who are looking to improve the
 
 HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is accesible toa broad range of devices and quite simple navigaate for all users.
 
-<img src="assets/images/responsive-website.png" alt="Screenshot of website across all screen devices">
+<img src="assets/images/responsive-website-all-screens.png" alt="Screenshot of website across all screen devices">
 <br>
 <br>
 
@@ -130,7 +130,7 @@ The features on this website was created to aid users to be able to navigate the
 </li>
 </ul>
 <br>
-<img src="assets/images/fresh-face-hero-image.png" alt="Screenshot of website's hero image">
+<img src="assets/images/screenshot-fresh-face-hero.png" alt="Screenshot of website's hero image">
 <ul>
 <br>
 <li><strong>We Love Fresh Face Remedies Section</strong>

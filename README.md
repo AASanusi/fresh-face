@@ -1,6 +1,6 @@
 # Fresh Face
 
-Live site can be viewed here! (Hyperlink text to live site link once created)
+<a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here!</a>
 
 # Project Overview
 Fresh Face is a skin care site that was created to help people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from overspending on high-end skin care brands. 
@@ -125,7 +125,7 @@ The features on this website was created to aid users to be able to navigate the
 <li><strong>Hero Image</strong>
 <ul>
 <li>This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the company.</li>
-<li>The image has an animation on it that zooms forward to which draws the user to what Fresh Face is about.</li>
+<li>The image has a woman with a facial mask at the forefront to which will help the users understand what the website is about.</li>
 </ul>
 </li>
 </ul>
@@ -372,8 +372,9 @@ Performance score
 </li>
 </ul>
 </li>
-<img src="assets/images/" alt="Screenshot of lighthouse performance score">
+<img src="assets/images/screenshot-lighthouse-performance.png" alt="Screenshot of lighthouse performance score">
 </ul>
+
 ## Unfixed Bugs
 <strong>Home Page:</strong>
 <ul>
@@ -385,13 +386,26 @@ Performance score
 </ul>
 
 # Deployment
+The open source developer environment used to write and edit code was Gitpod. Git was used to add, commit and push code to Github. Github is the hosting used to store pushed codes by Git.
 
+Below are the steps followed to deploy site to Github Pages:
+<ol>
+<li>Sign into Github (if not already signed in)</li>
+<li>Access the relevant repository for the project that will be deployed</li>
+<li>At the top of project repository, click the settings tab to access more settings</li>
+<li>Sidebar appears on left-hand side, locate "Pages" tabe and click it</li>
+<li>Under Github Pages, locate "source" section and click on the branch dropdown labelled as none and change to "main"</li>
+<li>Click "Save"</li>
+<li>Give it a few minutes then refresh the page and a pop up box with livelink to the project will appear </li>
+</ol>
+<br>
+The live link can be found here - <a href="https://aasanusi.github.io/fresh-face/">https://aasanusi.github.io/fresh-face/</a>
 
-# Credit
+# Content
 
 ## Content
 
-## Media
+# Credit
 
 
 # Other General Project Advice

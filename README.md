@@ -2,7 +2,7 @@
 
 <a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here!</a>
 
-# Project Overview
+## Project Overview
 Fresh Face is a skin care site that was created to help people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from overspending on high-end skin care brands. 
 
 This site is targeted to individuals mainly women who are looking to improve their skin. This site will help people have control over their skin and also to determine what type of skin type they have to which they can take actions by using one of our recommended remedies.
@@ -13,7 +13,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 <br>
 <br>
 
-# Contents
+## Contents
 <ul>
 <li>
 User Experience (UX)
@@ -55,8 +55,21 @@ User Experience (UX)
 </ul>
 </li>
 </ul>
+<ul>
+<li>Testing
+<ul>
+<li>Bugs encountered</li>
+<li>Validator Testing
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+</li>
+<li>Skin Chart</li>
+<li>Contact Us</li>
+</ul>
 
-# User Experience (UX)
+## User Experience (UX)
 <ul>
 <li> <strong>User Stories</strong>
 <ul>
@@ -82,7 +95,7 @@ User Experience (UX)
 </ul>
 <br>
 
-# Features
+## Features
 The features on this website was created to aid users to be able to navigate the site and finding all the information they require to combat their skin. This website consists of the following 4 pages:
 <ul>
 <li><strong>Home</strong>
@@ -107,7 +120,7 @@ The features on this website was created to aid users to be able to navigate the
 </li>
 </ul>
 
-## Existing Features 
+### Existing Features 
 <ul>
 <li> <strong>Navigation Bar</strong>
 <ul>
@@ -237,7 +250,7 @@ The features on this website was created to aid users to be able to navigate the
 <img src="assets/images/screenshot-contacts.png" alt="Screenshot of contact details">
 <br>
 
-## Features left to implement
+### Features left to implement
 <ul>
 <li><strong>Future features will be:</strong>
 <ul>
@@ -250,7 +263,7 @@ The features on this website was created to aid users to be able to navigate the
 </ul>
 <br>
 
-# Technologies Used
+## Technologies Used
 
 <strong>Languages Used</strong>
 <ul>
@@ -298,12 +311,12 @@ The features on this website was created to aid users to be able to navigate the
 </ol>
 <br>
 
-# Testing
+## Testing
 The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and is up to the required standard.
 
 Responsiveness of the website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different devices such Google Chrome and Safari.
 
-## Bugs encountered & Solutions:
+### Bugs encountered & Solutions:
 <strong>Home page:</strong>
 <ul>
 <li>Bugs
@@ -346,7 +359,7 @@ Responsiveness of the website was tested using Google Developer Tools to observe
 </ul>
 <br>
 
-## Validator Testing
+### Validator Testing
 <ul>
 <li>HTML
 <ul>
@@ -375,7 +388,7 @@ Performance score
 <img src="assets/images/screenshot-lighthouse-performance.png" alt="Screenshot of lighthouse performance score">
 </ul>
 
-## Unfixed Bugs
+### Unfixed Bugs
 <strong>Home Page:</strong>
 <ul>
 <li>Unfixed Bug
@@ -385,7 +398,7 @@ Performance score
 </li>
 </ul>
 
-# Deployment
+## Deployment
 The open source developer environment used to write and edit code was Gitpod. Git was used to add, commit and push code to Github. Github is the hosting used to store pushed codes by Git.
 
 Below are the steps followed to deploy site to Github Pages:
@@ -401,13 +414,11 @@ Below are the steps followed to deploy site to Github Pages:
 <br>
 The live link can be found here - <a href="https://aasanusi.github.io/fresh-face/">https://aasanusi.github.io/fresh-face/</a>
 
-# Content
-
 ## Content
+
+### Content
 
 # Credit
 
-
-# Other General Project Advice
 
 

@@ -71,8 +71,8 @@ User Experience (UX)
 </li>
 <li>Revisiting User
 <ol>
-<li>As a revisiting user, I want to be able to contact the organisation if I have any questions</li>
-<li>As a revisiting user, I want to be able to find monthly updates on the skin care remedy</li>
+<li>As a revisiting user, I want to be able to contact the organisation if I have any questions.</li>
+<li>As a revisiting user, I want to be able to find monthly updates on the skin care remedy.</li>
 </ol>
 </ul>
 </ul>
@@ -87,22 +87,22 @@ The features on this website was created to aid users to be able to navigate the
 <ul>
 <li><strong>Home</strong>
 <ul>
-<li>Fresh Face logo, navigation links, images and informational content about Fresh Face, testimonial and footer page</li>
+<li>Fresh Face logo, navigation links, images and informational content about Fresh Face, testimonial and footer page.</li>
 </ul>
 </li>
 <li><strong>Remedies</strong>
 <ul>
-<li>Fresh Face logo, navigation links, skin care remedies for each skin type and footer page</li>
+<li>Fresh Face logo, navigation links, skin care remedies for each skin type and footer page.</li>
 </ul>
 </li>
 <li><strong>Skin Chart</strong>
 <ul>
-<li>Fresh Face logo, navigation links, skin chart to find out skin type and footer page</li>
+<li>Fresh Face logo, navigation links, skin chart to find out skin type and footer page.</li>
 </ul>
 </li>
 <li><strong>Contact Us</strong>
 <ul>
-<li>Fresh Face logo, navigation links, contact form for questions/feedbacks, contact address and footer page</li>
+<li>Fresh Face logo, navigation links, contact form for questions/feedbacks, contact address and footer page.</li>
 </ul>
 </li>
 </ul>
@@ -124,7 +124,7 @@ The features on this website was created to aid users to be able to navigate the
 <ul>
 <li><strong>Hero Image</strong>
 <ul>
-<li>This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the company. </li>
+<li>This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the company.</li>
 <li>The image has an animation on it that zooms forward to which draws the user to what Fresh Face is about.</li>
 </ul>
 </li>
@@ -158,8 +158,8 @@ The features on this website was created to aid users to be able to navigate the
 <li><strong>Testimonials Section</strong>
 <ul>
 <br>
-<li>This section provides the user information about past users describing how using Fresh Face remedies has helped them combat issues with their skin and at the same time save money on expensive skin care brands </li>
-<li>This section is intended to gain the trust of the user and to show that Fresh Face remedies work</li>
+<li>This section provides the user information about past users describing how using Fresh Face remedies has helped them combat issues with their skin and at the same time save money on expensive skin care brands.</li>
+<li>This section is intended to gain the trust of the user and to show that Fresh Face remedies work.</li>
 </ul>
 </li>
 </ul>
@@ -182,15 +182,32 @@ The features on this website was created to aid users to be able to navigate the
 <br>
 <li><strong>Remedies Page</strong>
 <ul>
-<li></li>
-<li></li>
+<br>
+<li>The remedies section provides the user with information on different types of Fresh Face remedies for the following skin types: 
+<ul>
+<li>Dry</li>
+<li>Oily</li>
+<li>Combination</li>
+<li>Acne Prone</li>
+</ul>
+</li>
+<li>This section provides the user a step by step guide on ingredients, how to make, how to apply and how it treats the skin.</li>
+<li>This section is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is bezt suited for their skin type.</li>
 </ul>
 </li>
 </ul>
-
-<img section>
+<br>
+<strong>Image - Dry Skin Remedy</strong>
+<img src="assets/images/screenshot-dry-remedy.png" alt="Screenshot of dry skin remedy section">
+<strong>Image - Oily Skin Remedy</strong>
+<img src="assets/images/screenshot-oily-remedy.png" alt="Screenshot of oliy skin remedy section">
+<strong>Image - Combination Skin Remedy</strong>
+<img src="assets/images/screenshot-combination-remedy.png" alt="Screenshot of combination skin remedy section">
+<strong>Image - Acne Prone Skin Remedy</strong>
+<img src="assets/images/screenshot-acne-prone-remedy.png" alt="Screenshot of acne prone skin remedy section">
 
 <ul>
+<br>
 <li><strong>Skin Chart Page</strong>
 <ul>
 <li></li>

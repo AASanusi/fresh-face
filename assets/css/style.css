@@ -905,7 +905,6 @@ footer {
     }
 }
 
-
 /* Extra Large devices, 1600px and up (large desktops)  */
 @media screen and (min-width: 1600px) {
 
@@ -948,6 +947,15 @@ footer {
     }
 
     #testimonial-header {
+        font-size: 130%;
+    }
+
+    /* Remedies */
+    .skin-headings {
+        font-size: 130%;
+    }
+
+    .remedies-content {
         font-size: 130%;
     }
 

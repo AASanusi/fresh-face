@@ -1,6 +1,6 @@
 # Fresh Face
 
-<a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here!</a>
+<a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here</a>
 
 # Project Overview
 Fresh Face is a skin care site that was created to help people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from overspending on high-end skin care brands. 
@@ -16,7 +16,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 # Contents
 <ul>
 <li>
-User Experience (UX)
+User Experience (UX) 
 <ul>
 <li> User Stories
 <ul>
@@ -25,6 +25,7 @@ User Experience (UX)
 </ul>
 </li>
 </ul>
+
 <ul>
 <li>Design
 <ul>
@@ -34,6 +35,7 @@ User Experience (UX)
 </ul>
 </li>
 </ul>
+
 <ul>
 <li>Features
 <ul>
@@ -58,19 +60,39 @@ User Experience (UX)
 </ul>
 </li>
 </ul>
+
 <ul>
 <li>Testing
 <ul>
-<li>Bugs encountered</li>
+<li>Bugs Encountered & Solutions</li>
 <li>Validator Testing
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 </ul>
 </li>
-<li>Skin Chart</li>
-<li>Contact Us</li>
+<li>Unfixed Bugs</li>
 </ul>
+</li>
+</ul>
+
+<ul>
+<li>Deployment</li>
+</ul>
+
+<ul>
+<li>Credits
+<ul>
+<li>Code</li>
+<li>Content</li>
+<li>Media</li>
+<li>Acknowledgement</li>
+</ul>
+</li>
+</ul>
+<br>
+
+
 
 # User Experience (UX)
 <ul>
@@ -325,7 +347,7 @@ The site consists of the Home page, Remedies page, Skin Chart page and Contact u
 
 Responsiveness of the website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different devices such Google Chrome and Safari.
 
-## Bugs encountered & Solutions:
+## Bugs Encountered & Solutions:
 <strong>Home page:</strong>
 <ul>
 <li>Bugs

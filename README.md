@@ -93,7 +93,7 @@ User Experience (UX)
 </ol>
 </ul>
 </ul>
-
+<br>
 <ul>
 <li><strong>Design</strong>
 <ul>
@@ -235,9 +235,9 @@ The features on this website was created to aid users to be able to navigate the
 <strong>Image - Oily Skin Remedy</strong>
 <img src="assets/images/screenshot-oily-rem.png" alt="Screenshot of oliy skin remedy section">
 <strong>Image - Combination Skin Remedy</strong>
-<img src="assets/images/screenshot-combination-rem.png" alt="Screenshot of combination skin remedy section">
+<img src="assets/images/screenshot-com-rem.png" alt="Screenshot of combination skin remedy section">
 <strong>Image - Acne Prone Skin Remedy</strong>
-<img src="assets/images/screenshot-acne-prone-rem.png" alt="Screenshot of acne prone skin remedy section">
+<img src="assets/images/screenshot-acne-rem.png" alt="Screenshot of acne prone skin remedy section">
 
 <ul>
 <br>

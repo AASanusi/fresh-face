@@ -211,13 +211,13 @@ The features on this website was created to aid users to be able to navigate the
 </ul>
 <br>
 <strong>Image - Dry Skin Remedy</strong>
-<img src="assets/images/screenshot-dry-remedy.png" alt="Screenshot of dry skin remedy section">
+<img src="assets/images/screenshot-dry-rem.png" alt="Screenshot of dry skin remedy section">
 <strong>Image - Oily Skin Remedy</strong>
-<img src="assets/images/screenshot-oily-remedy.png" alt="Screenshot of oliy skin remedy section">
+<img src="assets/images/screenshot-oily-rem.png" alt="Screenshot of oliy skin remedy section">
 <strong>Image - Combination Skin Remedy</strong>
-<img src="assets/images/screenshot-combination-remedy.png" alt="Screenshot of combination skin remedy section">
+<img src="assets/images/screenshot-combination-rem.png" alt="Screenshot of combination skin remedy section">
 <strong>Image - Acne Prone Skin Remedy</strong>
-<img src="assets/images/screenshot-acne-prone-remedy.png" alt="Screenshot of acne prone skin remedy section">
+<img src="assets/images/screenshot-acne-prone-rem.png" alt="Screenshot of acne prone skin remedy section">
 
 <ul>
 <br>

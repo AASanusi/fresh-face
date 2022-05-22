@@ -2,7 +2,7 @@
 
 <a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here!</a>
 
-## Project Overview
+# Project Overview
 Fresh Face is a skin care site that was created to help people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from overspending on high-end skin care brands. 
 
 This site is targeted to individuals mainly women who are looking to improve their skin. This site will help people have control over their skin and also to determine what type of skin type they have to which they can take actions by using one of our recommended remedies.
@@ -13,7 +13,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 <br>
 <br>
 
-## Contents
+# Contents
 <ul>
 <li>
 User Experience (UX)
@@ -29,7 +29,6 @@ User Experience (UX)
 <li>Design
 <ul>
 <li>Love Running Walkthrough Video</li>
-<li>Balsamiq</li>
 </ul>
 </li>
 </ul>
@@ -73,7 +72,7 @@ User Experience (UX)
 <li>Contact Us</li>
 </ul>
 
-## User Experience (UX)
+# User Experience (UX)
 <ul>
 <li> <strong>User Stories</strong>
 <ul>
@@ -102,17 +101,7 @@ User Experience (UX)
 <li>Love Running aided me to understand how to go about coding the website for this project. The basic framework of the navigation bar, hero image and footer was influenced by the walkthrough video.</li>
 </ul>
 </li>
-<li>Balsamiq
-<ul>
-<li>
-Acquring Balsamiq helped with forming the backbone and framework of the website. It was used to visually observe how the website will turn out on a basic level without having to start writing code. 
-</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-<img src="assets/images/screenshot-balsamiq.png" alt="Screenshot of website framework on Balsamiq">
 <br>
 
 ## Features
@@ -308,14 +297,14 @@ The features on this website was created to aid users to be able to navigate the
 <li>Font Awesome was mainly used to create the social media icons in the footer to provide a visual link for the users to click and access the social media accounts. It was also used for the copyright icon.</li>
 </ul>
 </li>
-<li>Git
+<li><a href="https://git-scm.com/">Git</a>
 <ul>
 <li>Git was used in the Gitpod terminal to add, commit and push code to Github</li>
 </ul>
 </li>
-<li>Gitpod
+<li><a href="https://www.gitpod.io/">Gitpod</a>
 <ul>
-<li>Gitpod was the open-source developer platform that was used to write code</li>
+<li>Gitpod is an Integrated Developer Environment</li>
 </ul>
 </li>
 <li><a href="https://github.com/">Github:</a>
@@ -427,11 +416,8 @@ Below are the steps followed to deploy site to Github Pages:
 <br>
 The live link can be found here - <a href="https://aasanusi.github.io/fresh-face/">https://aasanusi.github.io/fresh-face/</a>
 
-## Content
+## Credit
 
-### Content
-
-# Credit
 
 
 

@@ -129,52 +129,57 @@ The features on this website was created to aid users to be able to navigate the
 </ul>
 </li>
 </ul>
-
-<img src="fresh-face-hero-image.png" alt="Screenshot of website's hero image">
+<br>
+<img src="assets/images/fresh-face-hero-image.png" alt="Screenshot of website's hero image">
 <ul>
 <br>
 <li><strong>We Love Fresh Face Remedies Section</strong>
 <ul>
+<br>
 <li>This section provides information on what Fresh Face is and its purpose. This section is broken into two sections:
 <ul>
 <li><strong>What is Fresh Face?</strong></li>
 <li><strong>Why you need Fresh Face!</strong></li>
 </ul>
 </li>
-<br>
 <li>The information about Fresh Face is intended to help user understand the website and to commit them to keep scrolling the page as it also provides them with information as to why it's important to use our remedies.</li>
 <li>This is intended to encourage users from using our recommended remedies. </li>
 </ul>
 </li>
 </ul>
+<br>
 <strong>Image - What is Fresh Face?</strong>
 <img src="assets/images/we-love-ff-section-img-1.png">
 <strong>Image - Why you need Fresh Face! </strong>
-<img src="assets/images/we-love-ff-section-img-2.png">
 
+<img src="assets/images/we-love-ff-section-img-2.png">
 <ul>
+<br>
 <li><strong>Testimonials Section</strong>
 <ul>
+<br>
 <li>This section provides the user information about past users describing how using Fresh Face remedies has helped them combat issues with their skin and at the same time save money on expensive skin care brands </li>
 <li>This section is intended to gain the trust of the user and to show that Fresh Face remedies work</li>
 </ul>
 </li>
 </ul>
-
+<br>
 <img src="assets/images/testimonials-image.png" alt="Screenshot of the testimonial section">
-
 <ul>
+<br>
 <li><strong>The Footer</strong>
 <ul>
-<li></li>
-<li></li>
+<br>
+<li>The footer section contains links to relevant social media pages for Fresh Face. When clicked on, links will open in a new tab for the user to view.</li>
+<li>The footer is essential to the user as it provides various social media outlets for them keep connected with.</li>
+<li>The footer also contains the copyright for the website and the company.</li>
 </ul>
 </li>
 </ul>
-
-<img section>
-
+<br>
+<img src="assets/images/the-footer-image.png" alt="Screenshot of the footer section">
 <ul>
+<br>
 <li><strong>Remedies Page</strong>
 <ul>
 <li></li>

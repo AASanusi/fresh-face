@@ -344,10 +344,36 @@ Responsiveness of the website was tested using Google Developer Tools to observe
 </ul>
 </li>
 </ul>
-
+<br>
 
 ## Validator Testing
-
+<ul>
+<li>HTML
+<ul>
+<li>
+No errors were returned when passing through the official <a href="https://validator.w3.org/nu/">W3C validator</a>
+</li>
+</ul>
+</li>
+<img src="assets/images/screenshot-w3c-validator-html.png" alt="Screenshot of no errors in my HTML code on W3C validator">
+<li>CSS
+<ul>
+<li>
+No errors were returned when passing through the official <a href="https://jigsaw.w3.org/css-validator/">(Jigsaw) validator</a>
+</li>
+</ul>
+</li>
+<img src="assets/images/screenshot-jigsaw-validator.png" alt="Screenshot of no errors in my CSS code on Jigsaw validator">
+</ul>
+<li>Lighthouse Testing
+<ul>
+<li>
+Performance score
+</li>
+</ul>
+</li>
+<img src="assets/images/" alt="Screenshot of lighthouse performance score">
+</ul>
 ## Unfixed Bugs
 <strong>Home Page:</strong>
 <ul>

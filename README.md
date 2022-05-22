@@ -31,6 +31,30 @@ User Experience (UX)
 </li>
 </ul>
 <br>
+<ul>
+<li>Features
+<ul>
+<li>Home</li>
+<li>Remedies</li>
+<li>Skin Chart</li>
+<li>Contact Us</li>
+</ul>
+<br>
+<ul>
+<li>Existing Features
+<ul>
+<li>Navigation Bar</li>
+<li>We love Fresh Face Remedies Section</li>
+<li>Testimonials Section</li>
+<li>The Footer</li>
+<li>Remedies Page</li>
+<li>Skin Chart Page</li>
+<li>Contact Us Page</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
 # User Experience (UX)
 <ul>
@@ -106,24 +130,27 @@ The features on this website was created to aid users to be able to navigate the
 </li>
 </ul>
 
-<img section>
-
+<img src="fresh-face-hero-image.png" alt="Screenshot of website's hero image">
 <ul>
-<li>We Love Fresh Face Remedies Section
+<br>
+<li><strong>We Love Fresh Face Remedies Section</strong>
 <ul>
 <li>This section provides information on what Fresh Face is and its purpose. This section is broken into two sections:
 <ul>
-<li>What is Fresh Face</li>
-<li>Why you need Fresh Face!</li>
+<li><strong>What is Fresh Face?</strong></li>
+<li><strong>Why you need Fresh Face!</strong></li>
 </ul>
 </li>
+<br>
 <li>The information about Fresh Face is intended to help user understand the website and to commit them to keep scrolling the page as it also provides them with information as to why it's important to use our remedies.</li>
 <li>This is intended to encourage users from using our recommended remedies. </li>
 </ul>
 </li>
 </ul>
-
-<img section>
+<strong>Image - What is Fresh Face?</strong>
+<img src="assets/images/we-love-ff-section-img-1.png">
+<strong>Image - Why you need Fresh Face! </strong>
+<img src="assets/images/we-love-ff-section-img-2.png">
 
 <ul>
 <li>Testimonials Section
@@ -232,5 +259,23 @@ Features left to implement
 <br>
 
 # Testing
+
+## Validator Testing
+
+## Unfixed Bugs
+
+
+
+# Deployment
+
+
+# Credit
+
+## Content
+
+## Media
+
+
+# Other General Project Advice
 
 

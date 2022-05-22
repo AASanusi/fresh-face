@@ -112,8 +112,8 @@ h4 {
     padding: 7px 2px;
     text-align: center;
     display: inline-block;
-    margin-top: 30px;
-    margin-left: 196px;
+    margin-top: 10%;
+    margin-left: 62%;
 }
 
 /* about us */
@@ -543,8 +543,8 @@ footer {
         padding: 7px 2px;
         text-align: center;
         display: inline-block;
-        margin-top: 85px;
-        margin-left: 360px;
+        margin-top: 14%;
+        margin-left: 64%;
     }
 
     #right-text {
@@ -613,8 +613,8 @@ footer {
         height: 85px;
         padding: 7px 2px;
         text-align: center;
-        margin-top: 120px;
-        margin-left: 485px;
+        margin-top: 16%;
+        margin-left: 65%;
         letter-spacing: 2px;
     }
 
@@ -674,8 +674,8 @@ footer {
         height: 90px;
         padding: 10px 5px;
         text-align: center;
-        margin-top: 150px;
-        margin-left: 620px;
+        margin-top: 18%;
+        margin-left: 63%;
         letter-spacing: 2px;
     }
 
@@ -865,8 +865,8 @@ footer {
     #hero-image-text {
         width: 380px;
         height: 170px;
-        margin-top: 180px;
-        margin-left: 800px;
+        margin-top: 14%;
+        margin-left: 63%;
         font-size: 140%;
     }
 
@@ -922,7 +922,7 @@ footer {
     /* Home*/
 
     #menu {
-        font-size: 100%;
+        font-size: 120%;
     }
 
     #hero-image {
@@ -932,8 +932,8 @@ footer {
     #hero-image-text {
         width: 490px;
         height: 215px;
-        margin-top: 230px;
-        margin-left: 995px;
+        margin-top: 14%;
+        margin-left: 63%;
         font-size: 180%;
     }
 

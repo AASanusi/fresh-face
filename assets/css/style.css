@@ -135,7 +135,6 @@ h4 {
     flex-direction: column-reverse;
     justify-content: space-between;
     align-items: center;
-    height: 300;
 }
 
 #fresh-face-info-2nd {
@@ -143,7 +142,6 @@ h4 {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 300;
 }
 
 #left-image {
@@ -704,6 +702,11 @@ footer {
         letter-spacing: 2px;
     }
 
+    #right-image {
+        height: 500px;
+        width: 45%;
+    }
+
     #testimonial-header {
         height: 100px;
         line-height: 100px;
@@ -871,6 +874,10 @@ footer {
         font-size: 130%;
     }
 
+    #left-image {
+        height: 600px;
+    }
+
     #right-text {
         font-size: 130%;
         letter-spacing: 4px;
@@ -880,6 +887,10 @@ footer {
         font-size: 130%;
         letter-spacing: 4px;
 
+    }
+
+    #right-image {
+        height: 600px;
     }
 
     .test-comments {
@@ -930,6 +941,10 @@ footer {
         font-size: 130%;
     }
 
+    #left-image {
+        height: 700px;
+    }
+
     #right-text {
         font-size: 130%;
         letter-spacing: 4px;
@@ -938,7 +953,10 @@ footer {
     #left-text {
         font-size: 130%;
         letter-spacing: 4px;
+    }
 
+    #right-image {
+        height: 700px;
     }
 
     .test-comments {

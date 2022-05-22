@@ -610,9 +610,9 @@ footer {
     }
 
     #hero-image-text {
-        font-size: 80%;
+        font-size: 70%;
         width: 220px;
-        height: 100px;
+        height: 85px;
         padding: 7px 2px;
         text-align: center;
         margin-top: 120px;
@@ -671,12 +671,12 @@ footer {
     }
 
     #hero-image-text {
-        font-size: 100%;
+        font-size: 90%;
         width: 300px;
-        height: 120px;
+        height: 90px;
         padding: 10px 5px;
         text-align: center;
-        margin-top: 160px;
+        margin-top: 150px;
         margin-left: 620px;
         letter-spacing: 2px;
     }
@@ -846,8 +846,8 @@ footer {
     }
 }
 
-/* Extra Large devices, 1200px and up (large desktops)  */
-@media screen and (min-width: 1200px) and (max-width: 1680px) {
+/* Large devices, 1280px and up (laptops)  */
+@media screen and (min-width: 1280px) {
 
     /* Home*/
     #hero-image {
@@ -855,11 +855,53 @@ footer {
     }
 
     #hero-image-text {
-        width: 400px;
+        width: 350px;
         height: 120px;
-        margin-top: 300px;
-        margin-left: 1080px;
-        font-size: 120%;
+        margin-top: 220px;
+        margin-left: 800px;
+        font-size: 110%;
+    }
+
+    #we-love-ff-header {
+        font-size: 130%;
+    }
+
+    #right-text {
+        font-size: 130%;
+        letter-spacing: 4px;
+    }
+
+    #left-text {
+        font-size: 130%;
+        letter-spacing: 4px;
+
+    }
+
+    .test-comments {
+        font-size: 130%;
+        letter-spacing: 2px;
+    }
+
+    #testimonial-header {
+        font-size: 130%;
+    }
+}
+
+
+/* Extra Large devices, 1680px and up (large desktops)  */
+@media screen and (min-width: 1680px) {
+
+    /* Home*/
+    #hero-image {
+        height: 900px;
+    }
+
+    #hero-image-text {
+        width: 500px;
+        height: 170px;
+        margin-top: 580px;
+        margin-left: 1050px;
+        font-size: 160%;
     }
 
     #we-love-ff-header {

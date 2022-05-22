@@ -26,11 +26,15 @@ User Experience (UX)
 </li>
 </ul>
 <ul>
-<li>Design</li>
+<li>Design
+<ul>
+<li>Love Running Walkthrough Video</li>
+<li>Balsamiq</li>
 </ul>
 </li>
 </ul>
-<br>
+</li>
+</ul>
 <ul>
 <li>Features
 <ul>
@@ -91,8 +95,24 @@ User Experience (UX)
 </ul>
 
 <ul>
-<li><strong>Design</strong></li>
+<li><strong>Design</strong>
+<ul>
+<li>Love Running Walkthrough Video
+<ul>
+<li>Love Running aided me to understand how to go about coding the website for this project. The basic framework of the navigation bar, hero image and footer was influenced by the walkthrough video.</li>
 </ul>
+</li>
+<li>Balsamiq
+<ul>
+<li>
+Acquring Balsamiq helped with forming the backbone and framework of the website. It was used to visually observe how the website will turn out on a basic level without having to start writing code. 
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<img src="assets/images/screenshot-balsamiq.png" alt="Screenshot of website framework on Balsamiq">
 <br>
 
 ## Features

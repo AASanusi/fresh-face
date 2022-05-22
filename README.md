@@ -104,7 +104,7 @@ User Experience (UX)
 </ul>
 <br>
 
-## Features
+# Features
 The features on this website was created to aid users to be able to navigate the site and finding all the information they require to combat their skin. This website consists of the following 4 pages:
 <ul>
 <li><strong>Home</strong>
@@ -129,7 +129,7 @@ The features on this website was created to aid users to be able to navigate the
 </li>
 </ul>
 
-### Existing Features 
+## Existing Features 
 <ul>
 <li> <strong>Navigation Bar</strong>
 <ul>
@@ -259,7 +259,7 @@ The features on this website was created to aid users to be able to navigate the
 <img src="assets/images/screenshot-contacts.png" alt="Screenshot of contact details">
 <br>
 
-### Features left to implement
+## Features left to implement
 <ul>
 <li><strong>Future features will be:</strong>
 <ul>
@@ -272,7 +272,7 @@ The features on this website was created to aid users to be able to navigate the
 </ul>
 <br>
 
-## Technologies Used
+# Technologies Used
 
 <strong>Languages Used</strong>
 <ul>
@@ -320,12 +320,12 @@ The features on this website was created to aid users to be able to navigate the
 </ol>
 <br>
 
-## Testing
+# Testing
 The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and is up to the required standard.
 
 Responsiveness of the website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different devices such Google Chrome and Safari.
 
-### Bugs encountered & Solutions:
+## Bugs encountered & Solutions:
 <strong>Home page:</strong>
 <ul>
 <li>Bugs
@@ -368,7 +368,7 @@ Responsiveness of the website was tested using Google Developer Tools to observe
 </ul>
 <br>
 
-### Validator Testing
+## Validator Testing
 <ul>
 <li>HTML
 <ul>
@@ -397,10 +397,10 @@ Performance score
 <img src="assets/images/screenshot-lighthouse-performance.png" alt="Screenshot of lighthouse performance score">
 </ul>
 
-### Unfixed Bugs
-N/A
+## Unfixed Bugs
+All bugs were fixed before the submission of this project.
 
-## Deployment
+# Deployment
 The open source developer environment used to write and edit code was Gitpod. Git was used to add, commit and push code to Github. Github is the hosting used to store pushed codes by Git.
 
 Below are the steps followed to deploy site to Github Pages:
@@ -416,8 +416,59 @@ Below are the steps followed to deploy site to Github Pages:
 <br>
 The live link can be found here - <a href="https://aasanusi.github.io/fresh-face/">https://aasanusi.github.io/fresh-face/</a>
 
-## Credit
+# Credits
+## Code
+<ul>
+<li><a href="https://www.w3schools.com/">W3Schools: </a>Aided in uderstanding on how to write certain codes</li>
+<li><a href="https://kinsta.com/blog/responsive-web-design/">Kinsta: </a>Kinsta website helped with forming media queries for the site</li>
+</ul>
+<br>
 
+## Content
+<ul>
+<li>Content and codes were written by the developer</li>
+<li>Love Running walkthrough video aided in forming the basic strutures of the website. Used README template to also form parts of this project README</li>
+<li>IDE and Deployment essential was followed to help create README</li>
+<li><a href="https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3">Steve Griffith Youtube: </a>Helped with writing flexbox and grids</li>
+<li><a href="https://fontawesome.com/">Font Awesome: </a>Icons were imported from Font Awesome website</li>
+</ul>
+<br>
+
+## Media
+<ul>
+<li>All the photos used in this website was taken from a royalty and copyright free website called<a href="https://www.pexels.com/"> Pexels.</a></li>
+<li></li>
+<li></li>
+</ul>
+<br>
+
+## Acknowledgments
+<ul>
+<br>
+<li><strong>Mentor</strong>
+<ul>
+<li>I would like to thank my mentor for the initial help and tips to get started with my project such as advising me to use Balsamiq to have an idea what I want my website to look like</li>
+<li>I woild like to thank my mentor for the continous feedback and teaching some fundamental aspects of web designing</li>
+</ul>
+</li>
+<br>
+<li><strong>Tutor Support Team</strong>
+<ul>
+<li>I would like ti give a huge thanks to Christine for helping solve the aligning issues on the Remedies page</li>
+<li>I would like to thank Ger for educating me on some basic HTML and CSS </li>
+<li>I would like to thank Sean for helping solve the image issue on the Skin Chart page</li>
+</ul>
+</li>
+<br>
+<li><strong>Fellow classmates/aluminis on Slack</strong>
+<ul>
+<li>I would like to thank Jared for helping to solve the footer issue</li>
+<li>I would like to thank Mat for providing resources to help build the website</li>
+<li>I would like to thank Lauren-Nicole for helping to solve the hero-image issue on the home page</li>
+<li>I would like to thank Bim for helping me understand some fundamental HTML and CSS and how to write media queries</li>
+</ul>
+</li>
+</ul>
 
 
 

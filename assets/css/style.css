@@ -816,7 +816,7 @@ footer {
         align-items: center;
     }
 
-    .grid-skin-image>img {
+    .grid-skin-image > img {
         max-width: 100%;
         padding: 20px 120px;
     }
@@ -850,6 +850,11 @@ footer {
 @media screen and (min-width: 1280px) {
 
     /* Home*/
+
+    #menu {
+        font-size: 95%;
+    }
+
     #hero-image {
         height: 900px;
     }
@@ -885,6 +890,19 @@ footer {
     #testimonial-header {
         font-size: 130%;
     }
+
+    /* Skin Chart*/
+    .grid-skin-type {
+        padding: 50px 10px;
+        margin: 5px 5px;
+        font-size: 20px;
+    }
+
+    .grid-skin-sypmtoms {
+        padding: 125px 10px;
+        margin: 5px 5px;
+        font-size: 20px;
+    }
 }
 
 
@@ -892,6 +910,11 @@ footer {
 @media screen and (min-width: 1600px) {
 
     /* Home*/
+
+    #menu {
+        font-size: 100%;
+    }
+
     #hero-image {
         height: 1000px;
     }
@@ -926,5 +949,18 @@ footer {
 
     #testimonial-header {
         font-size: 130%;
+    }
+
+    /*Skin Chart*/
+    .grid-skin-type {
+        padding: 50px 10px;
+        margin: 5px 5px;
+        font-size: 25px;
+    }
+
+    .grid-skin-sypmtoms {
+        padding: 125px 10px;
+        margin: 5px 5px;
+        font-size: 25px;
     }
 }

@@ -8,14 +8,14 @@
 }
 
 body {
-    font-family: Lato, Georgia, sans-serif;
+    font-family: "Lato", "Georgia", sans-serif;
     font-weight: 300;
     color: #000000;
 }
 
 h1,
 h2 {
-    font-family: Playfair Display, Georgia, sans-serif;
+    font-family: "Playfair Display", "Georgia", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #000000;
@@ -23,7 +23,7 @@ h2 {
 
 h3,
 h4 {
-    font-family: Playfair Display, Georgia, sans-serif;
+    font-family: "Playfair Display", "Georgia", sans-serif;
     letter-spacing: 2px;
     color: #000000;
 }
@@ -46,7 +46,7 @@ h4 {
     line-height: 75px;
 }
 
-#menu>li {
+#menu > li {
     list-style-type: none;
     margin-right: 30px;
     display: inline;
@@ -152,7 +152,7 @@ h4 {
     background-size: 100%;
 }
 
-#left-image>img {
+#left-image > img {
     height: 100%;
 }
 
@@ -169,7 +169,7 @@ h4 {
     margin: 10px;
 }
 
-#right-text>p {
+#right-text > p {
     padding: 0 7px;
 }
 
@@ -181,12 +181,12 @@ h4 {
     margin: 10px;
 }
 
-#left-text>h3 {
+#left-text > h3 {
     text-align: center;
     margin: 10px;
 }
 
-#left-text>p {
+#left-text > p {
     padding: 0 7px;
 }
 
@@ -198,7 +198,7 @@ h4 {
     background-size: 100%;
 }
 
-#right-image>img {
+#right-image > img {
     height: 100%;
 }
 
@@ -238,7 +238,7 @@ footer {
     text-align: center;
 }
 
-.socials>li {
+.socials > li {
     display: inline;
 }
 
@@ -313,7 +313,7 @@ footer {
     margin: 0 0 10px 0;
 }
 
-.need>h4 {
+.need > h4 {
     padding: 10px;
     font-size: larger;
     text-align: center;
@@ -324,7 +324,7 @@ footer {
 
 }
 
-.make>h4 {
+.make > h4 {
     padding: 10px;
     font-size: larger;
     text-align: center;
@@ -334,7 +334,7 @@ footer {
     margin: 0 0 10px 0;
 }
 
-.apply>h4 {
+.apply > h4 {
     padding: 10px;
     font-size: larger;
     text-align: center;
@@ -344,7 +344,7 @@ footer {
     margin: 0 0 10px 0;
 }
 
-.treat>h4 {
+.treat > h4 {
     padding: 10px;
     font-size: larger;
     text-align: center;
@@ -422,7 +422,7 @@ footer {
     box-sizing: border-box;
 }
 
-.feedback-form>h2 {
+.feedback-form > h2 {
     color: #000000;
     margin-bottom: 20px;
     text-align: center;
@@ -481,7 +481,7 @@ footer {
     max-width: 100%;
 }
 
-.contact-info>h2 {
+.contact-info > h2 {
     color: #000000;
     margin-bottom: 20px;
     text-align: center;
@@ -557,7 +557,7 @@ footer {
         letter-spacing: 2px;
     }
 
-    #right-text>p {
+    #right-text > p {
         padding: 0 10px;
     }
 
@@ -583,7 +583,7 @@ footer {
         height: 300px;
     }
 
-    .grid-skin-image>img {
+    .grid-skin-image > img {
         padding: 20px;
     }
 }
@@ -758,7 +758,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .need>h4 {
+    .need > h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -768,7 +768,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .make>h4 {
+    .make > h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -778,7 +778,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .apply>h4 {
+    .apply > h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -788,7 +788,7 @@ footer {
         margin: 0 0 10px 0;
     }
 
-    .treat>h4 {
+    .treat > h4 {
         padding: 20px;
         font-size: larger;
         text-align: center;
@@ -819,7 +819,7 @@ footer {
         align-items: center;
     }
 
-    .grid-skin-image>img {
+    .grid-skin-image > img {
         max-width: 100%;
         padding: 20px 120px;
     }

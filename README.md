@@ -299,12 +299,64 @@ The features on this website was created to aid users to be able to navigate the
 <br>
 
 # Testing
+The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and is up to the required standard.
+
+Responsiveness of the website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different devices such Google Chrome and Safari.
+
+## Bugs encountered & Solutions:
+<strong>Home page:</strong>
+<ul>
+<li>Bugs
+<ul>
+<li>Hero Text was aligning incorrectly to the Hero Image at different screen sizes.</li>
+</ul>
+</li>
+<li>Solution
+<ul>
+<li>Solved by using percentages instead of pixels.</li>
+</ul>
+</li>
+<br>
+<strong>Remedies page:</strong>
+<ul>
+<li>Bugs
+<ul>
+<li>Image for the oily prone skin remedy section wasn't aligning properly beside the text and compressing the text to the left side of the page.</li>
+</ul>
+</li>
+<li>Solution
+<ul>
+<li>Issue was due to an extra div around the image and that was causing the style to not apply like it did in the other sections. Solved this issue by removing the outer div to which then allows styles to be applied.</li>
+</ul>
+</li>
+</ul>
+<br>
+<strong>Skin Chart page:</strong>
+<ul>
+<li>Bugs
+<ul>
+<li>Images and right hand text pushed out of the screen to the right hand side when at lower screen sizes such as 320px</li>
+</ul>
+</li>
+<li>Solution
+<ul>
+<li>Solved by removing grid-template column and padding from skin-chart-grid div and adding text-align </li>
+</ul>
+</li>
+</ul>
+
 
 ## Validator Testing
 
 ## Unfixed Bugs
-
-
+<strong>Home Page:</strong>
+<ul>
+<li>Unfixed Bug
+<ul>
+<li>Logo and Navigation links to pages was spaced out from each other at 320px screen size</li>
+</ul>
+</li>
+</ul>
 
 # Deployment
 

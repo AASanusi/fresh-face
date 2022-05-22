@@ -183,7 +183,7 @@ The features on this website was created to aid users to be able to navigate the
 <li><strong>Remedies Page</strong>
 <ul>
 <br>
-<li>The remedies section provides the user with information on different types of Fresh Face remedies for the following skin types: 
+<li>The remedies page provides the user with information on different types of Fresh Face remedies for the following skin types: 
 <ul>
 <li>Dry</li>
 <li>Oily</li>
@@ -191,8 +191,8 @@ The features on this website was created to aid users to be able to navigate the
 <li>Acne Prone</li>
 </ul>
 </li>
-<li>This section provides the user a step by step guide on ingredients, how to make, how to apply and how it treats the skin.</li>
-<li>This section is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is bezt suited for their skin type.</li>
+<li>This page provides the user a step by step guide on ingredients, how to make, how to apply and how it treats the skin.</li>
+<li>This page is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is bezt suited for their skin type.</li>
 </ul>
 </li>
 </ul>
@@ -210,18 +210,21 @@ The features on this website was created to aid users to be able to navigate the
 <br>
 <li><strong>Skin Chart Page</strong>
 <ul>
-<li></li>
-<li></li>
+<li>The skin chart page consists visual and contextual information to help the user identify their skin types if not known already.</li>
+<li>This page will help the users to determine their skin type as it provides the skin types and its symptoms associated with it.</li>
+<li>Determining their skin type will then help them choose the relevant Fresh Face remedy</li>
 </ul>
 </li>
 </ul>
-
-<img section>
-
+<br>
+<strong>Image - Dry and Oily Skin Chart</strong>
+<img src="assets/images/screenshot-dry-oily-sc.png" alt="Screenshot of dry and oily skin chart">
+<strong>Image - Combination and Acne Prone Skin Chart</strong>
+<img src="assets/images/screenshot-com-acne-sc.png" alt="Screenshot of combination and acne prone skin chart">
 <ul>
 <li><strong>Contact Us Page</strong>
 <ul>
-<li></li>
+<li>This pa</li>
 <li></li>
 </ul>
 </li>

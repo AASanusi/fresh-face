@@ -154,6 +154,7 @@ h4 {
 
 #left-image > img {
     height: 100%;
+    width: auto;
 }
 
 #right-text {
@@ -200,6 +201,7 @@ h4 {
 
 #right-image > img {
     height: 100%;
+    width: auto;
 }
 
 /* testimonial */

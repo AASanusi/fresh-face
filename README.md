@@ -170,7 +170,7 @@ The features on this website was created to aid users to be able to navigate the
 <li><strong>The Footer</strong>
 <ul>
 <br>
-<li>The footer section contains links to relevant social media pages for Fresh Face. When clicked on, links will open in a new tab for the user to view.</li>
+<li>The footer section contains links to Fresh Face social media pages such as Facebook, Instagram, Twitter and Youtube. When clicked on, links will open in a new tab for the user to view.</li>
 <li>The footer is essential to the user as it provides various social media outlets for them keep connected with.</li>
 <li>The footer also contains the copyright for the website and the company.</li>
 </ul>
@@ -212,7 +212,7 @@ The features on this website was created to aid users to be able to navigate the
 <ul>
 <li>The skin chart page consists visual and contextual information to help the user identify their skin types if not known already.</li>
 <li>This page will help the users to determine their skin type as it provides the skin types and its symptoms associated with it.</li>
-<li>Determining their skin type will then help them choose the relevant Fresh Face remedy</li>
+<li>Determining their skin type will then help them choose the relevant Fresh Face remedy.</li>
 </ul>
 </li>
 </ul>
@@ -222,17 +222,21 @@ The features on this website was created to aid users to be able to navigate the
 <strong>Image - Combination and Acne Prone Skin Chart</strong>
 <img src="assets/images/screenshot-com-acne-sc.png" alt="Screenshot of combination and acne prone skin chart">
 <ul>
+<br>
 <li><strong>Contact Us Page</strong>
 <ul>
-<li>This pa</li>
-<li></li>
+<br>
+<li>This page will allow the user to provide feedbacks on Fresh Fresh remedy and ask us any specific questions about Fresh Face remedies. The user will need to give their full name and email address in order to submit their feedback.</li>
+<li>This page also consists of Fresh Face contact details such as phone number, email address and location address. This is to encourage the users to reaching out to us for support.</li>
 </ul>
 </li>
 </ul>
-
-<img section>
-
-Features left to implement
+<strong>Image - Feedback Form</strong>
+<img src="assets/images/screenshot-feedback.png" alt="Screenshot of feedback form">
+<strong>Image - Contact Details</strong>
+<img src="assets/images/screenshot-contacts.png" alt="Screenshot of contact details">
+<br>
+## Features left to implement
 <br>
 
 # Technologies Used

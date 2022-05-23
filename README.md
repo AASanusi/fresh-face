@@ -16,7 +16,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 # Contents
 <ul>
 <li>
-User Experience (UX) 
+User Experience (UX)
 <ul>
 <li> User Stories
 <ul>

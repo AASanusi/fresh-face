@@ -3,11 +3,11 @@
 <a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here</a>
 
 # Project Overview
-Fresh Face is a skin care site that was created to help people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from overspending on high-end skin care brands. 
+Fresh Face is a skin care site that was created to provide skin care solutions to people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from wasting money on high-end skin care brands.
 
-This site is targeted to individuals who are looking to improve their skin. This site will help people have control over their skin and also to determine what type of skin type they have to which they can take actions by using one of our recommended remedies.
+This site is targeted to individuals who are looking to improve their skin. Having a fresh looking face can translate to a better quality of life. 
 
-HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is accesible toa broad range of devices and quite simple navigaate for all users.
+HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is accesible to a broad range of devices and simple to navigate.
 
 <img src="assets/images/responsive-website-all-screens.png" alt="Screenshot of website across all screen devices">
 <br>

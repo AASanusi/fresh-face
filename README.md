@@ -39,13 +39,6 @@ User Experience (UX)
 <ul>
 <li>Features
 <ul>
-<li>Home</li>
-<li>Remedies</li>
-<li>Skin Chart</li>
-<li>Contact Us</li>
-</ul>
-<br>
-<ul>
 <li>Existing Features
 <ul>
 <li>Navigation Bar</li>

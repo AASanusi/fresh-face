@@ -2,7 +2,7 @@
 
 ![Screenshot of fresh face website shown across a range of different devices](assets/images/responsive-website-all-screens.png)
 
-<a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here</a>
+[View Fresh Face Live Website Here](https://aasanusi.github.io/fresh-face/)
 
 # Project Overview
 Fresh Face is a skin care site that was created to provide skin care solutions to people who are struggling with keeping their skin under control. This site provides natural remedies as well as a skin chart to help combat their facial issues and to help them from wasting money on high-end skin care brands.
@@ -11,9 +11,6 @@ This site is targeted to individuals who are looking to improve their skin. Havi
 
 HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is accesible to a broad range of devices and simple to navigate.
 
-<img src="assets/images/responsive-website-all-screens.png" alt="Screenshot of website across all screen devices">
-<br>
-<br>
 
 # Contents
 <ul>

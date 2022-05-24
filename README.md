@@ -80,13 +80,13 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 - ### Design
   - #### Colour Scheme
-    - This site uses three colours that truly represents Fresh Face. The green pastil colour was chosen for all the headings and footer background colour as well for the hover colour for the form section. The white colour was chosen as the main background colour for all the pages and to allow a good contrast for the texts and images. The grey colour was chosen as the colour for the form. All these colours colplemeted each other properly and creates a consistent colour flow across the website.
+    - This site uses three colours that truly represents Fresh Face. The green pastil colour was chosen for all the headings and footer background colour as well as for the hover colour in the form section. The white colour was chosen as the main background colour for all the pages and to allow a good contrast for the texts and images. The grey colour was chosen as the colour for the form. All these colours complemented each other properly and creates a consistent colour flow across the website.
   - #### Typography
-    - Playfair Display is the main font used for the headings across the page. This was chosen as it's a font is well suited for titles and headings.
-    - Lato is the main font used for the rest of the text across the page. This was chosen as it compliments the Playfair Display font, thereofre, giving the website a nice flow.
+    - Playfair Display is the main font used for the headings across the page. This was chosen as it's a font that is well suited for titles and headings.
+    - Lato is the main font used for the rest of the text across the page. This was chosen as it compliments the Playfair Display font, therefore, giving the website a nice flow.
     - Sans serif was chosen as the fallback font in case some browsers don't import the other fonts. Sans serif is the generic font used as a fallback font.
   - #### Imagery
-    - The purpose of images on thsi website is to catch the attention of the user and to support the information provided on the website. All the images on this website were taken from [Pexels](https://www.pexels.com/) which is a free stock images website and they've been [credited](#Credits).
+    - The purpose of images on this website is to catch the attention of the user and to support the information provided on the website. All the images on this website were taken from [Pexels](https://www.pexels.com/) which is a free stock image website and they've been [credited](#Credits).
 
 
 ## Features 

@@ -67,42 +67,6 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
       - [Tutor Support Team](#Tutor-Support-Team)
       - [Fellow classmates/alumnis on Slack](#Fellow-classmates/alumnis-on-Slack)
 
-
-
-
-<ul>
-<li>Testing
-<ul>
-<li>Bugs Encountered & Solutions</li>
-<li>Validator Testing
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-</ul>
-</li>
-<li>Unfixed Bugs</li>
-</ul>
-</li>
-</ul>
-
-<ul>
-<li>Deployment</li>
-</ul>
-
-<ul>
-<li>Credits
-<ul>
-<li>Code</li>
-<li>Content</li>
-<li>Media</li>
-<li>Acknowledgement</li>
-</ul>
-</li>
-</ul>
-<br>
-
-
-
 # User Experience (UX)
 <ul>
 <li> <strong>User Stories</strong>

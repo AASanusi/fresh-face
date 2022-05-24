@@ -199,74 +199,51 @@ The features on this website was created to aid users with finding information o
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Balsamiq:](https://balsamiq.com/)
+1. #### [Balsamiq:](https://balsamiq.com/)
   - Balsamiq was used to create the basic frameworks of the project to which helped to coding the website.
 
-2. [Google Fonts:](https://fonts.google.com/)
-  - Google fonts was used to import "Playfair Display" and "Lato" fonts into styles.css and this was used throughout the website
+2. #### [Google Fonts:](https://fonts.google.com/)
+  - Google fonts was used to import "Playfair Display" and "Lato" fonts into CSS and used throughout the website.
 
-3. [Font Awesome:](https://fontawesome.com/)
-  - Font Awesome was mainly used to create the social media icons in the footer to provide a visual link for the users to click and access the social media accounts. It was also used for the copyright icon.
+3. #### [Font Awesome:](https://fontawesome.com/)
+  - Font Awesome was used to create the social media icons in the footer to provide a visual link for the users to click and access the social media accounts. It was also used for the copyright icon.
 
-4. [Git:](https://git-scm.com/)
+4. #### [Git:](https://git-scm.com/)
   - Git was used in the Gitpod terminal to add, commit and push code to Github.
 
-5. [Gitpod:](https://www.gitpod.io/)
-  - Gitpod is an Integrated Developer Environment.
+5. #### [Gitpod:](https://www.gitpod.io/)
+  - Gitpod is the Integrated Developer Environment used to code this project.
 
-6. [Github:](https://github.com/)
+6. #### [Github:](https://github.com/)
   - Github was used to hold and keep the pushed codes by Git and store projects.
 
-7. [Gitpod Full Template:](https://github.com/Code-Institute-Org/gitpod-full-template)
-  - Gitpod Full Template provided by code institute to which has all the tools to aid us with our coding</li>
+7. #### [Gitpod Full Template:](https://github.com/Code-Institute-Org/gitpod-full-template)
+  - Gitpod Full Template was provided by code institute and it consisted of all the relevant tools needed to code this website.
 
 ## Testing
-The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and is up to the required standard.
+The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and it's up to the required standard.
 
-Responsiveness of the website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different devices such Google Chrome and Safari.
+Responsiveness of this website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different browsers such as Google Chrome and Safari.
 
 ### Bugs Encountered & Solutions:
-<strong>Home page:</strong>
-<ul>
-<li>Bugs
-<ul>
-<li>Hero Text was aligning incorrectly to the Hero Image at different screen sizes.</li>
-</ul>
-</li>
-<li>Solution
-<ul>
-<li>Solved by using percentages instead of pixels.</li>
-</ul>
-</li>
-<br>
-<strong>Remedies page:</strong>
-<ul>
-<li>Bugs
-<ul>
-<li>Image for the oily prone skin remedy section wasn't aligning properly beside the text and compressing the text to the left side of the page.</li>
-</ul>
-</li>
-<li>Solution
-<ul>
-<li>Issue was due to an extra div around the image and that was causing the style to not apply like it did in the other sections. Solved this issue by removing the outer div to which then allows styles to be applied.</li>
-</ul>
-</li>
-</ul>
-<br>
-<strong>Skin Chart page:</strong>
-<ul>
-<li>Bugs
-<ul>
-<li>Images and right hand text pushed out of the screen to the right hand side when at lower screen sizes such as 320px</li>
-</ul>
-</li>
-<li>Solution
-<ul>
-<li>Solved by removing grid-template column and padding from skin-chart-grid div and adding text-align </li>
-</ul>
-</li>
-</ul>
-<br>
+ - #### Bugs
+   - Hero Text was aligning incorrectly to the Hero Image at different screen sizes.
+
+ - #### Solution
+   - Solved by using percentages instead of pixels.
+
+ - #### Bugs
+   - Image for the oily prone skin remedy section wasn't aligning properly beside the text and was compressing the text to the left side of the page.
+
+ - #### Solution
+   - Issue was due to an extra div around the image and was causing the syling not to be applied. Solved this issue by removing the outer div to which then allows styles to be applied.
+
+ - #### Bugs
+   - On the skin chart page, the images and right hand texts were being pushed out of the screen at smaller screen sizes.
+
+ - #### Solution
+   - Solved by removing grid-template column and padding from div and replacing with text-align.
+
 
 ### Validator Testing
 <ul>

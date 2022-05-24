@@ -268,18 +268,17 @@ All bugs were fixed before the submission of this project.
 ## Deployment
 The open source developer environment used to write and edit code was Gitpod. Git was used to add, commit and push code to Github. Github is the hosting used to store pushed codes by Git.
 
-Below are the steps followed to deploy site to Github Pages:
-<ol>
-<li>Sign into Github (if not already signed in)</li>
-<li>Access the relevant repository for the project that will be deployed</li>
-<li>At the top of project repository, click the settings tab to access more settings</li>
-<li>Sidebar appears on left-hand side, locate "Pages" tabe and click it</li>
-<li>Under Github Pages, locate "source" section and click on the branch dropdown labelled as none and change to "main"</li>
-<li>Click "Save"</li>
-<li>Give it a few minutes then refresh the page and a pop up box with livelink to the project will appear </li>
-</ol>
-<br>
-The live link can be found here - <a href="https://aasanusi.github.io/fresh-face/">https://aasanusi.github.io/fresh-face/</a>
+- Below are the steps followed to deploy site to Github Pages:
+  - Sign into Github (if not already signed in).
+  - Access the relevant repository for the project that will be deployed.
+  - At the top of project repository, click the settings tab to access more settings.
+  - Sidebar appears on left-hand side, locate "Pages" tabe and click it.
+  - Under Github Pages, locate "source" section and click on the branch dropdown labelled as none and change to "main"
+  - Click "Save".
+  - Give it a few minutes then refresh the page and a pop up box with livelink to the project will appear.
+
+
+The live link can be found [https://aasanusi.github.io/fresh-face/](https://aasanusi.github.io/fresh-face/).
 
 ## Credits
 ### Code

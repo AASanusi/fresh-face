@@ -189,8 +189,8 @@ The features on this website was created to aid users with finding information o
 
 ### Languages Used
 
-[HTML5](https://en.wikipedia.org/wiki/HTML5)
-[CSS3](https://en.wikipedia.org/wiki/CSS)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs Used
 

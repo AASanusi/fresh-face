@@ -1,6 +1,6 @@
 # Fresh Face Website
 
-
+![Screenshot of fresh face website shown across a range of different devices](assets/images/responsive-website-all-screens.png)
 
 <a href="https://aasanusi.github.io/fresh-face/">Live site can be viewed here</a>
 

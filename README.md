@@ -93,29 +93,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 
 ## Features 
-The features on this website was created to aid users to finding all the information they require to combat their skin. This website consists of the Home page, Remedies page, Skin chart page and Contact Us page.
-<ul>
-<li><strong>Home</strong>
-<ul>
-<li>Fresh Face logo, navigation links, images and informational content about Fresh Face, testimonial and footer page.</li>
-</ul>
-</li>
-<li><strong>Remedies</strong>
-<ul>
-<li>Fresh Face logo, navigation links, skin care remedies for each skin type and footer page.</li>
-</ul>
-</li>
-<li><strong>Skin Chart</strong>
-<ul>
-<li>Fresh Face logo, navigation links, skin chart to find out skin type and footer page.</li>
-</ul>
-</li>
-<li><strong>Contact Us</strong>
-<ul>
-<li>Fresh Face logo, navigation links, contact form for questions/feedbacks, contact address and footer page.</li>
-</ul>
-</li>
-</ul>
+The features on this website was created to aid users with finding information on how to combat their skin texture and appearance. This website consists of the Home page, Remedies page, Skin chart page and Contact Us page.
 
 ### Existing Features 
 <ul>

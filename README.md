@@ -72,8 +72,9 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
   - #### First Time User
     - As a first time user, I want to be sold on why to use Fresh Face remedies instead of buying branded skincare.
     - As a first time user, I want to find it easy to navigate the site.
+    - As a first time user, I want to be able to use the site across different browsers and devices.
     - As a first time user, I want to able find skin care remedies for my skin type.
-    - As a first time user that don't know their skin type, I want to be able to determine type of skin type I have.
+    - As a first time user, I don't know my skin type, therefore, I would like to be able to determine my skin type.
     - As a first time user, I want to be able to find your social media accounts.
   - #### Revisiting User
     - As a revisiting user, I want to be able to contact the organisation if I have any questions.

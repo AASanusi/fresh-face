@@ -48,9 +48,9 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 - [Testing](#Testing)
   - [Bugs Encountered & Solutions](#Bugs-Encountered-&-Solutions)
   - [Validator Testing](#Validator-Testing)
-     - [HTML](#HTML)
-     - [CSS](#CSS)
-     - [Lighthouse](#Lighthouse)     
+     - [HTML](#H-T-M-L)
+     - [CSS](#C-S-S)
+     - [Lighthouse](#Lighthouse-Testing)     
   - [Unfixed Bugs](#Unfixed-Bugs)
 
 - [Deployment](#Deployment)

@@ -12,46 +12,63 @@ This site is targeted to individuals who are looking to improve their skin appea
 HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is easy to navivigate and it's accesible to a broad range of devices.
 
 
-# Contents
-<ul>
-<li>
-User Experience (UX)
-<ul>
-<li> User Stories
-<ul>
-<li>First Time User</li>
-<li>Revisiting User
-</ul>
-</li>
-</ul>
+## Contents
+- [User Experience (UX)](#User-Experience-(UX))
+   - [User Stories](#User-Stories)
+      - [First Time User](#First-Time-User)
+      - [Revisiting User](#Revisiting-User)
 
-<ul>
-<li>Design
-<ul>
-<li>Love Running Walkthrough Video</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+- [Design](#Design)
+   - [Colour Scheme](#Colour-Scheme)
+   - [Typography](#Typography)
+   - [Imagery](#Imagery)
 
-<ul>
-<li>Features
-<ul>
-<li>Existing Features
-<ul>
-<li>Navigation Bar</li>
-<li>We love Fresh Face Remedies Section</li>
-<li>Testimonials Section</li>
-<li>The Footer</li>
-<li>Remedies Page</li>
-<li>Skin Chart Page</li>
-<li>Contact Us Page</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+- [Feature](#Features)
+   - [Existing Features](#Existing-Features)
+      - [Navigation Bar](#Navigation-Bar)
+      - [We love Fresh Face Remedies Section](#We-love-Fresh-Face-Remedies-Section)
+      - [Testimonials Section](#Testimonials-Section)
+      - [The Footer](#The-Footer)
+      - [Remedies Page](#Remedies-Page)
+      - [Skin Chart Page](#Skin-Chart-Page)
+      - [Contact Us Page](#Contact-Us-Page)
+      - [Features Left To Implement](#Features-Left-To-Implement)
+
+- [Technologies Used](#Technologies-Used)
+   - [Languages Used](#Languages-Used)
+   - [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+      - [Balsamiq](#Balsamiq)
+      - [Google Fonts](#Google-Fonts)
+      - [Font Awesome](#Font-Awesome)
+      - [Git](#Git)   
+      - [Gitpod](#Gitpod)
+      - [Github](#Github)
+      - [Gitpod Full Template](#Gitpod-Full-Template)
+
+- [Testing](#Testing)
+  - [Bugs Encountered & Solutions](#Bugs-Encountered-&-Solutions)
+     - [Home page](#Home-page)
+     - [Remedies page](#Remedies-page)
+     - [Skin Chart page](#Skin-Chart-page])
+  - [Validator Testing](#Validator-Testing)
+     - [HTML](#HTML)
+     - [CSS](#CSS)
+     - [Lighthouse](#Lighthouse)     
+  - [Unfixed Bugs](#Unfixed-Bugs)
+
+- [Deployment](#Deployment)
+
+- [Credits](#Credits)
+   - [Code](#Code)
+   - [Content](#Content)
+   - [Media](#Media)
+   - [Acknowledgments](#Acknowledgments)
+      - [Mentor](#Mentor)
+      - [Tutor Support Team](#Tutor-Support-Team)
+      - [Fellow classmates/alumnis on Slack](#Fellow-classmates/alumnis-on-Slack)
+
+
+
 
 <ul>
 <li>Testing
@@ -119,7 +136,7 @@ User Experience (UX)
 <br>
 
 # Features 
-The features on this website was created to aid users to be able to navigate the site and finding all the information they require to combat their skin. This website consists of the following 4 pages:
+The features on this website was created to aid users to finding all the information they require to combat their skin. This website consists of the Home page, Remedies page, Skin chart page and Contact Us page.
 <ul>
 <li><strong>Home</strong>
 <ul>

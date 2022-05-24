@@ -192,51 +192,33 @@ The features on this website was created to aid users with finding information o
 
 ## Technologies Used
 
-<strong>Languages Used</strong>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
-<li><a href="https://en.wikipedia.org/wiki/CSS">CSS3</a></li>
-</ul>
+### Languages Used
 
-<strong>Frameworks, Libraries & Programs Used</strong>
-<ol>
-<li><a href="https://balsamiq.com/">Balsamiq:</a>
-<ul>
-<li>Balsamiq was used to create the basic frameworks of the project to which helped to coding the website</li>
-</ul>
-</li>
-<li><a href="https://fonts.google.com/">Google Fonts:</a>
-<ul>
-<li>Google fonts was used to import "Playfair Display" and "Lato" fonts into styles.css and this was used throughout the website</li>
-</ul>
-</li>
-<li><a href="https://fontawesome.com/">Font Awesome:</a>
-<ul>
-<li>Font Awesome was mainly used to create the social media icons in the footer to provide a visual link for the users to click and access the social media accounts. It was also used for the copyright icon.</li>
-</ul>
-</li>
-<li><a href="https://git-scm.com/">Git</a>
-<ul>
-<li>Git was used in the Gitpod terminal to add, commit and push code to Github</li>
-</ul>
-</li>
-<li><a href="https://www.gitpod.io/">Gitpod</a>
-<ul>
-<li>Gitpod is an Integrated Developer Environment</li>
-</ul>
-</li>
-<li><a href="https://github.com/">Github:</a>
-<ul>
-<li>Github was used to hold and keep the pushed codes by Git and store projects</li>
-</ul>
-</li>
-<li><a href="https://github.com/Code-Institute-Org/gitpod-full-template">Gitpod Full Template:</a>
-<ul>
-<li>Gitpod Full Template provided by code institute to which has all the tools to aid us with our coding</li>
-</ul>
-</li>
-</ol>
-<br>
+[HTML5](https://en.wikipedia.org/wiki/HTML5)
+[CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Balsamiq:](https://balsamiq.com/)
+  - Balsamiq was used to create the basic frameworks of the project to which helped to coding the website.
+
+2. [Google Fonts:](https://fonts.google.com/)
+  - Google fonts was used to import "Playfair Display" and "Lato" fonts into styles.css and this was used throughout the website
+
+3. [Font Awesome:](https://fontawesome.com/)
+  - Font Awesome was mainly used to create the social media icons in the footer to provide a visual link for the users to click and access the social media accounts. It was also used for the copyright icon.
+
+4. [Git:](https://git-scm.com/)
+  - Git was used in the Gitpod terminal to add, commit and push code to Github.
+
+5. [Gitpod:](https://www.gitpod.io/)
+  - Gitpod is an Integrated Developer Environment.
+
+6. [Github:](https://github.com/)
+  - Github was used to hold and keep the pushed codes by Git and store projects.
+
+7. [Gitpod Full Template:](https://github.com/Code-Institute-Org/gitpod-full-template)
+  - Gitpod Full Template provided by code institute to which has all the tools to aid us with our coding</li>
 
 ## Testing
 The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and is up to the required standard.

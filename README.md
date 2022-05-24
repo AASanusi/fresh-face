@@ -60,9 +60,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
    - [Content](#Content)
    - [Media](#Media)
    - [Acknowledgments](#Acknowledgments)
-      - [Mentor](#Mentor)
-      - [Tutor Support Team](#Tutor-Support-Team)
-      - [Fellow classmates/alumnis on Slack](#Fellow-classmates/alumnis-on-Slack)
+
 
 ## User Experience (UX)
 - ### User Stories

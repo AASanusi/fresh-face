@@ -93,152 +93,104 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 
 ## Features 
-The features on this website was created to aid users with finding information on how to combat their skin texture and appearance. This website consists of the Home page, Remedies page, Skin chart page and Contact Us page.
+The features on this website was created to aid users with finding information on how to combat their skin texture and appearance. This website consists of the Home page, Remedies page, Skin Chart page and Contact Us page.
 
 ### Existing Features 
-<ul>
-<li> <strong>Navigation Bar</strong>
-<ul>
-<br>
-<li>Consists of the logo of the website and the navigation links such as the Home page, Remedies page, Skin Chart page and COntact Us page. They are all present, identical and consistent across all four pages.</li>
-<li>This was created to aid the users to navigate each page by being able to hop from one page to another with ease. Logo was also created to be able to link back to the Home page when clicked on.</li>
-</ul>
-</li>
-</ul>
-<br>
-<img src="assets/images/navigation-bar.png" alt="Screenshot of navigation bar">
-<br>
-<br>
-<ul>
-<li><strong>Hero Image</strong>
-<ul>
-<li>This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the company.</li>
-<li>The image has a woman with a facial mask at the forefront to which will help the users understand what the website is about.</li>
-</ul>
-</li>
-</ul>
-<br>
-<img src="assets/images/screenshot-fresh-face-hero.png" alt="Screenshot of website's hero image">
-<ul>
-<br>
-<li><strong>We Love Fresh Face Remedies Section</strong>
-<ul>
-<br>
-<li>This section provides information on what Fresh Face is and its purpose. This section is broken into two sections:
-<ul>
-<li><strong>What is Fresh Face?</strong></li>
-<li><strong>Why you need Fresh Face!</strong></li>
-</ul>
-</li>
-<li>The information about Fresh Face is intended to help user understand the website and to commit them to keep scrolling the page as it also provides them with information as to why it's important to use our remedies.</li>
-<li>This is intended to encourage users from using our recommended remedies. </li>
-</ul>
-</li>
-</ul>
-<br>
-<strong>Image - What is Fresh Face?</strong>
-<img src="assets/images/we-love-ff-section-img-1.png">
-<strong>Image - Why you need Fresh Face! </strong>
+- #### Navigation Bar
+  - Consists of the logo of the website and the navigation links such as the Home page, Remedies page, Skin Chart page and the Contact Us page. They are all identical and consistent across all four pages.
+  - This was created to aid the users to navigate each page with just one click. Logo was also created to be able to link back to the Home page when clicked on.
 
-<img src="assets/images/we-love-ff-section-img-2.png">
-<ul>
-<br>
-<li><strong>Testimonials Section</strong>
-<ul>
-<br>
-<li>This section provides the user information about past users describing how using Fresh Face remedies has helped them combat issues with their skin and at the same time save money on expensive skin care brands.</li>
-<li>This section is intended to gain the trust of the user and to show that Fresh Face remedies work.</li>
-</ul>
-</li>
-</ul>
-<br>
-<img src="assets/images/testimonials-image.png" alt="Screenshot of the testimonial section">
-<ul>
-<br>
-<li><strong>The Footer</strong>
-<ul>
-<br>
-<li>The footer section contains links to Fresh Face social media pages such as Facebook, Instagram, Twitter and Youtube. When clicked on, links will open in a new tab for the user to view.</li>
-<li>The footer is essential to the user as it provides various social media outlets for them keep connected with.</li>
-<li>The footer also contains the copyright for the website and the company.</li>
-</ul>
-</li>
-</ul>
-<br>
-<img src="assets/images/the-footer-image.png" alt="Screenshot of the footer section">
-<ul>
-<br>
-<li><strong>Remedies Page</strong>
-<ul>
-<br>
-<li>The remedies page provides the user with information on different types of Fresh Face remedies for the following skin types: 
-<ul>
-<li>Dry</li>
-<li>Oily</li>
-<li>Combination</li>
-<li>Acne Prone</li>
-</ul>
-</li>
-<li>This page provides the user a step by step guide on ingredients, how to make, how to apply and how it treats the skin.</li>
-<li>This page is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is bezt suited for their skin type.</li>
-</ul>
-</li>
-</ul>
-<br>
-<strong>Image - Dry Skin Remedy</strong>
-<img src="assets/images/screenshot-dry-rem.png" alt="Screenshot of dry skin remedy section">
-<strong>Image - Oily Skin Remedy</strong>
-<img src="assets/images/screenshot-oily-rem.png" alt="Screenshot of oliy skin remedy section">
-<strong>Image - Combination Skin Remedy</strong>
-<img src="assets/images/screenshot-com-rem.png" alt="Screenshot of combination skin remedy section">
-<strong>Image - Acne Prone Skin Remedy</strong>
-<img src="assets/images/screenshot-acne-rem.png" alt="Screenshot of acne prone skin remedy section">
+![Screenshot of the navigation bar with the logo and navigation links](assets/images/navigation-bar.png)
 
-<ul>
-<br>
-<li><strong>Skin Chart Page</strong>
-<ul>
-<li>The skin chart page consists visual and contextual information to help the user identify their skin types if not known already.</li>
-<li>This page will help the users to determine their skin type as it provides the skin types and its symptoms associated with it.</li>
-<li>Determining their skin type will then help them choose the relevant Fresh Face remedy.</li>
-</ul>
-</li>
-</ul>
-<br>
-<strong>Image - Dry and Oily Skin Chart</strong>
-<img src="assets/images/screenshot-dry-oily-sc.png" alt="Screenshot of dry and oily skin chart">
-<strong>Image - Combination and Acne Prone Skin Chart</strong>
-<img src="assets/images/screenshot-com-acne-sc.png" alt="Screenshot of combination and acne prone skin chart">
-<ul>
-<br>
-<li><strong>Contact Us Page</strong>
-<ul>
-<br>
-<li>This page will allow the user to provide feedbacks on Fresh Fresh remedy and ask us any specific questions about Fresh Face remedies. The user will need to give their full name and email address in order to submit their feedback.</li>
-<li>This page also consists of Fresh Face contact details such as phone number, email address and location address. This is to encourage the users to reaching out to us for support.</li>
-</ul>
-</li>
-</ul>
-<strong>Image - Feedback Form</strong>
-<img src="assets/images/screenshot-feedback.png" alt="Screenshot of feedback form">
-<strong>Image - Contact Details</strong>
-<img src="assets/images/screenshot-contacts.png" alt="Screenshot of contact details">
-<br>
+- #### Hero Image
+  - This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the using natural remedies.
+  - The image has a woman with a facial mask at the forefront to which will grab the users attention and help them understand what the website is about.
 
-## Features left to implement
-<ul>
-<li><strong>Future features will be:</strong>
-<ul>
-<br>
-<li>Adding dropdown menu and links to each remedy section when clicked on remedies on the navigation bar</li>
-<li>Developing the skin chart page into a proper chart for users to visualize and determine thier skin type</li>
-<li>Using JavaScript, to add a feature that links the skin chart page to the remedies page. To create a feature on the skin chart page to which to once user determines their skin type they can click on it and it will automatically redirect them to the remedies page and to the specific remdy associated with that skin type.</li>
-</ul>
-</li>
-</ul>
-<br>
+![Screenshot of the websit'es hero image with text overlay](assets/images/screenshot-fresh-face-hero.png)
 
-# Technologies Used
+- #### We Love Fresh Face Remedies Section
+  - This section provides information on what Fresh Face is and its purpose. This section is broken into two sections:
+     - What is Fresh Face?
+     - Why you need Fresh Face!
+  - This section is intended to help the users to get a summary of the website and to keep them engaged long enough until they can commit to checking out the whole website.
+
+**Image - What is Fresh Face?**
+
+![Screenshot of image one of a woman with a facial remedy on her face](assets/images/we-love-ff-section-img-1.png)
+
+**Image - Why you need Fresh Face!**
+
+![Screenshot of image two of a woman smiling and touching her face](assets/images/we-love-ff-section-img-2.png)
+
+- #### Testimonials Section
+  - This section consists of previous users describing how using Fresh Face remedies has helped them to fight their skin issues.
+  - This section is intended to gain the trust of the user and to show that Fresh Face remedies work.
+
+![Screenshot of the testimonial section with previous users of Freash Face remedies](assets/images/testimonials-image.png)
+
+- #### The Footer
+  - The footer section contains links to Fresh Face social media pages such as Facebook, Instagram, Twitter and Youtube. When clicked on, links will open in a new tab for the user to view.
+  - The footer is essential to keep the users connected through the various social media outlets.
+  - The footer also contains the copyright for the website and the company.
+
+![Screenshot of the footer section which consists of the social media links and copyright](assets/images/the-footer-image.png)
+
+- #### Remedies Page
+  - The remedies page provides the user with information on the different types of Fresh Face remedies for the following skin types: 
+     - Dry
+     - Oily
+     - Combination
+     - Acne Prone
+  - This page provides the user a step by step guide on ingredients, how to make, how to apply and how it treats the skin.
+  - This page is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is best suited for their skin type
+
+**Image - Dry Skin Remedy**
+
+![Screenshot of dry skin remedy section showing text and honey image](assets/images/screenshot-dry-rem.png)
+
+**Image - Oily Skin Remedy**
+
+![Screenshot of oily skin remedy section showing text and coffee beans image](assets/images/screenshot-oily-rem.png)
+
+**Image - Combination Skin Remedy**
+
+![Screenshot of combination skin remedy section showing text and almonds image](assets/images/screenshot-com-rem.png)
+
+**Image - Acne Prone Skin Remedy**
+
+![Screenshot of acne prone skin remedy section showing text and sliced lemond and lime image](assets/images/screenshot-acne-rem.png)
+
+- #### Skin Chart Page
+  - The skin chart page consists of information to determine their skin type.
+  - It provides the skin types and the symptoms associated with it.
+  - Determining their skin type will then help them choose the relevant Fresh Face remedy.
+
+**Image - Dry and Oily Skin Chart**
+
+![Screenshot of dry and oily skin chart with images of a dry skin and oily skin accompanied with a description for each](assets/images/screenshot-dry-oily-sc.png)
+
+**Image - Combination and Acne Prone Skin Chart**
+
+![Screenshot of dry and oily skin chart with images of a dry skin and oily skin accompanied with a description for each](assets/images/screenshot-com-acne-sc.png)
+
+- #### Contact Us Page
+  - This page will allow the user to provide feedbacks on Fresh Fresh remedy and ask us any specific questions about Fresh Face remedies. The user will need to give their full name and email address in order to submit their feedback.
+  - This page also consists of Fresh Face contact details such as phone number, email address and location address. This is to encourage the users to reaching out to us for support.
+
+**Image - Feedback Form**
+
+![Screenshot of feedback form consisting of name, email and submit inputs](assets/images/screenshot-feedback.png)
+
+**Image - Contact Details**
+
+![Screenshot of contact details consisting of company's phone number, email address and HQ address](assets/images/screenshot-contacts.png)
+
+## Features Left To Implement
+- Add dropdown menu and links to each remedy section when user clicks on remedies on the navigation bar.
+- Develop the skin chart page into an advanced chart for users to visualize and determine thier skin type.
+- Use JavaScript, to add a feature that links the skin chart page to the remedies page. To create a feature on the skin chart page to which after user determines their skin type they can click on it and it will automatically redirect them to the remedies page and to the specific remedy associated with that skin type.
+
+## Technologies Used
 
 <strong>Languages Used</strong>
 <ul>

@@ -244,35 +244,23 @@ Responsiveness of this website was tested using Google Developer Tools to observ
  - #### Solution
    - Solved by removing grid-template column and padding from div and replacing with text-align.
 
-
 ### Validator Testing
-<ul>
-<li>HTML
-<ul>
-<li>
-No errors were returned when passing through the official <a href="https://validator.w3.org/nu/">W3C validator</a>
-</li>
-</ul>
-</li>
-<img src="assets/images/screenshot-w3c-validator-html.png" alt="Screenshot of no errors in my HTML code on W3C validator">
-<li>CSS
-<ul>
-<li>
-No errors were returned when passing through the official <a href="https://jigsaw.w3.org/css-validator/">(Jigsaw) validator</a>
-</li>
-</ul>
-</li>
-<img src="assets/images/screenshot-jigsaw-validator.png" alt="Screenshot of no errors in my CSS code on Jigsaw validator">
-</ul>
-<li>Lighthouse Testing
-<ul>
-<li>
-Performance score
-</li>
-</ul>
-</li>
-<img src="assets/images/screenshot-lighthouse-performance.png" alt="Screenshot of lighthouse performance score">
-</ul>
+ - HTML
+   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+
+![Screenshot of no errors in my HTML code on W3C validator](assets/images/screenshot-w3c-validator-html.png)
+
+ - CSS
+   - No errors were returned when passing through the official
+
+![](https://jigsaw.w3.org/css-validator/) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) 
+
+![Screenshot of no errors in my CSS code on Jigsaw validator](assets/images/screenshot-jigsaw-validator.png)
+
+ - Lighthouse Testing
+   - Performance score
+
+[Screenshot of lighthouse performance score](assets/images/screenshot-lighthouse-performance.png)
 
 ### Unfixed Bugs
 All bugs were fixed before the submission of this project.

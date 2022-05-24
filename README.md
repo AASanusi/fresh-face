@@ -272,67 +272,49 @@ The open source developer environment used to write and edit code was Gitpod. Gi
   - Sign into Github (if not already signed in).
   - Access the relevant repository for the project that will be deployed.
   - At the top of project repository, click the settings tab to access more settings.
-  - Sidebar appears on left-hand side, locate "Pages" tabe and click it.
+  - Sidebar appears on left-hand side, locate "Pages" tab at bottom of sidebar and click it.
   - Under Github Pages, locate "source" section and click on the branch dropdown labelled as none and change to "main"
   - Click "Save".
-  - Give it a few minutes then refresh the page and a pop up box with livelink to the project will appear.
-
+  - Give it a few minutes then refresh the page and a pop up box with live link to the project will appear.
 
 The live link can be found [https://aasanusi.github.io/fresh-face/](https://aasanusi.github.io/fresh-face/).
 
 ## Credits
 ### Code
-<ul>
-<li><a href="https://www.w3schools.com/">W3Schools: </a>Aided in uderstanding on how to write certain codes</li>
-<li><a href="https://kinsta.com/blog/responsive-web-design/">Kinsta: </a>Kinsta website helped with forming media queries for the site</li>
-</ul>
-<br>
+- [W3Schools:](https://www.w3schools.com/)
+  - Aided in uderstanding on how to write certain codes.
+
+- [Kinsta:](https://kinsta.com/blog/responsive-web-design/)
+  - Kinsta website helped with forming media queries for the site.
 
 ### Content
-<ul>
-<li>Content and codes were written by the developer</li>
-<li>Love Running walkthrough video aided in forming the basic strutures of the website. Used README template to also form parts of this project README</li>
-<li>IDE and Deployment essential was followed to help create README</li>
-<li><a href="https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3">Steve Griffith Youtube: </a>Helped with writing flexbox and grids</li>
-<li><a href="https://fontawesome.com/">Font Awesome: </a>Icons were imported from Font Awesome website</li>
-</ul>
-<br>
+- Content and codes were written by the developer.
+- Love Running walkthrough video aided in forming the basic strutures of the website. Used README template to also form parts of this project's README.
+- IDE and Deployment essential video was followed to help create README.
+- [Steve Griffith Youtube Channel:](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3)
+  - Helped with writing flexbox and grids.
+- [Font Awesome:](https://fontawesome.com/)
+  - Icons were imported from Font Awesome website.
 
 ### Media
-<ul>
-<li>All the photos used in this website was taken from a royalty and copyright free website called<a href="https://www.pexels.com/"> Pexels.</a></li>
-<li></li>
-<li></li>
-</ul>
-<br>
+All the photos used in this website was taken from a royalty and copyright free website called [Pexels](https://www.pexels.com/).
 
 ### Acknowledgments
-<ul>
-<br>
-<li><strong>Mentor</strong>
-<ul>
-<li>I would like to thank my mentor for the initial help and tips to get started with my project such as advising me to use Balsamiq to have an idea what I want my website to look like</li>
-<li>I woild like to thank my mentor for the continous feedback and teaching some fundamental aspects of web designing</li>
-</ul>
-</li>
-<br>
-<li><strong>Tutor Support Team</strong>
-<ul>
-<li>I would like ti give a huge thanks to Christine for helping solve the aligning issues on the Remedies page</li>
-<li>I would like to thank Ger for educating me on some basic HTML and CSS </li>
-<li>I would like to thank Sean for helping solve the image issue on the Skin Chart page</li>
-</ul>
-</li>
-<br>
-<li><strong>Fellow classmates/aluminis on Slack</strong>
-<ul>
-<li>I would like to thank Jared for helping to solve the footer issue</li>
-<li>I would like to thank Mat for providing resources to help build the website</li>
-<li>I would like to thank Lauren-Nicole for helping to solve the hero-image issue on the home page</li>
-<li>I would like to thank Bim for helping me understand some fundamental HTML and CSS and how to write media queries</li>
-</ul>
-</li>
-</ul>
+- #### Mentor
+  - I would like to thank my mentor for the initial help and tips to get started with my project such as advising me to use Balsamiq to form the basic parts of the website.
+  - I woild like to thank my mentor for the continous feedback.
+
+- #### Tutor Support Team
+  - I would like to give a huge thanks to Christine for helping solve the aligning issues on the Remedies page.
+  - I would like to thank Ger for educating me on some basic HTML and CSS.
+  - I would like to thank Sean for helping solve the image issue on the Skin Chart page.
+
+- #### Fellow classmates/aluminis on Slack
+  - I would like to thank Jared for helping to solve the footer issue and providing me with README information.
+  - I would like to thank Mat for providing resources to help build the website.
+  - I would like to thank Lauren-Nicole for helping to solve the hero-image issue on the home page.
+  - I would like to thank Bim for helping me understand some fundamental HTML and CSS and how to write media queries.
+
 
 
 

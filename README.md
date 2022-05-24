@@ -67,7 +67,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
       - [Tutor Support Team](#Tutor-Support-Team)
       - [Fellow classmates/alumnis on Slack](#Fellow-classmates/alumnis-on-Slack)
 
-# User Experience (UX)
+## User Experience (UX)
 <ul>
 <li> <strong>User Stories</strong>
 <ul>
@@ -99,7 +99,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 </ul>
 <br>
 
-# Features 
+## Features 
 The features on this website was created to aid users to finding all the information they require to combat their skin. This website consists of the Home page, Remedies page, Skin chart page and Contact Us page.
 <ul>
 <li><strong>Home</strong>
@@ -124,7 +124,7 @@ The features on this website was created to aid users to finding all the informa
 </li>
 </ul>
 
-## Existing Features 
+### Existing Features 
 <ul>
 <li> <strong>Navigation Bar</strong>
 <ul>
@@ -315,12 +315,12 @@ The features on this website was created to aid users to finding all the informa
 </ol>
 <br>
 
-# Testing
+## Testing
 The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and is up to the required standard.
 
 Responsiveness of the website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different devices such Google Chrome and Safari.
 
-## Bugs Encountered & Solutions:
+### Bugs Encountered & Solutions:
 <strong>Home page:</strong>
 <ul>
 <li>Bugs
@@ -363,7 +363,7 @@ Responsiveness of the website was tested using Google Developer Tools to observe
 </ul>
 <br>
 
-## Validator Testing
+### Validator Testing
 <ul>
 <li>HTML
 <ul>
@@ -392,10 +392,10 @@ Performance score
 <img src="assets/images/screenshot-lighthouse-performance.png" alt="Screenshot of lighthouse performance score">
 </ul>
 
-## Unfixed Bugs
+### Unfixed Bugs
 All bugs were fixed before the submission of this project.
 
-# Deployment
+## Deployment
 The open source developer environment used to write and edit code was Gitpod. Git was used to add, commit and push code to Github. Github is the hosting used to store pushed codes by Git.
 
 Below are the steps followed to deploy site to Github Pages:
@@ -411,15 +411,15 @@ Below are the steps followed to deploy site to Github Pages:
 <br>
 The live link can be found here - <a href="https://aasanusi.github.io/fresh-face/">https://aasanusi.github.io/fresh-face/</a>
 
-# Credits
-## Code
+## Credits
+### Code
 <ul>
 <li><a href="https://www.w3schools.com/">W3Schools: </a>Aided in uderstanding on how to write certain codes</li>
 <li><a href="https://kinsta.com/blog/responsive-web-design/">Kinsta: </a>Kinsta website helped with forming media queries for the site</li>
 </ul>
 <br>
 
-## Content
+### Content
 <ul>
 <li>Content and codes were written by the developer</li>
 <li>Love Running walkthrough video aided in forming the basic strutures of the website. Used README template to also form parts of this project README</li>
@@ -429,7 +429,7 @@ The live link can be found here - <a href="https://aasanusi.github.io/fresh-face
 </ul>
 <br>
 
-## Media
+### Media
 <ul>
 <li>All the photos used in this website was taken from a royalty and copyright free website called<a href="https://www.pexels.com/"> Pexels.</a></li>
 <li></li>
@@ -437,7 +437,7 @@ The live link can be found here - <a href="https://aasanusi.github.io/fresh-face
 </ul>
 <br>
 
-## Acknowledgments
+### Acknowledgments
 <ul>
 <br>
 <li><strong>Mentor</strong>

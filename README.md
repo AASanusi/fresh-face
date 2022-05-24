@@ -9,7 +9,7 @@ Fresh Face is a skin care site that was created to provide skin care solutions t
 
 This site is targeted to individuals who are looking to improve their skin appearance and to have a better quality of life through having a fresher and healthier skin.
 
-HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is accesible to a broad range of devices and very simple to navigate.
+HTML5 and CSS3 are the only technologies used to create this static and responsive front-end site. This site is easy to navivigate and it's accesible to a broad range of devices.
 
 
 # Contents

@@ -46,7 +46,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
       - [Gitpod Full Template](#Gitpod-Full-Template)
 
 - [Testing](#Testing)
-  - [Bugs Encountered & Solutions](#Bugs-Encountered--Solutions)
+  - [Bugs Encountered & Solutions](#Bugs-Encountered-&-Solutions)
   - [Validator Testing](#Validator-Testing)
      - [HTML](#H-T-M-L)
      - [CSS](#C-S-S)

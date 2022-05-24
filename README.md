@@ -81,15 +81,8 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
     - As a revisiting user, I want to be able to find monthly updates on the skin care remedy.
 
 
-<li><strong>Design</strong>
-<ul>
-<li>Love Running Walkthrough Video
-<ul>
-<li>Love Running aided me to understand how to go about coding the website for this project. The basic framework of the navigation bar, hero image and footer was influenced by the walkthrough video.</li>
-</ul>
-</li>
-</ul>
-<br>
+Design
+
 
 ## Features 
 The features on this website was created to aid users to finding all the information they require to combat their skin. This website consists of the Home page, Remedies page, Skin chart page and Contact Us page.

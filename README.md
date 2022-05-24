@@ -257,7 +257,7 @@ Responsiveness of this website was tested using Google Developer Tools to observ
  - Lighthouse Testing
    - Performance score
 
-[Screenshot of lighthouse performance score](assets/images/screenshot-lighthouse-performance.png)
+![Screenshot of lighthouse performance score](assets/images/screenshot-lighthouse-performance.png)
 
 ### Unfixed Bugs
 All bugs were fixed before the submission of this project.

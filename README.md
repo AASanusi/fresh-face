@@ -94,14 +94,14 @@ The features on this website was created to aid users with finding information o
 
 ### Existing Features 
 - #### Navigation Bar
-  - Consists of the logo of the website and the navigation links such as the Home page, Remedies page, Skin Chart page and the Contact Us page. They are all identical and consistent across all four pages.
+  - Consists of the website's logo and the navigation links such as the Home page, Remedies page, Skin Chart page and the Contact Us page. They are all identical and consistent across all four pages.
   - This was created to aid the users to navigate each page with just one click. Logo was also created to be able to link back to the Home page when clicked on.
 
 ![Screenshot of the navigation bar with the logo and navigation links](assets/images/navigation-bar.png)
 
 - #### Hero Image
-  - This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the using natural remedies.
-  - The image has a woman with a facial mask at the forefront to which will grab the users attention and help them understand what the website is about.
+  - This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the using natural remedies as part of your skin care routine.
+  - The image shows a woman with a facial mask at the forefront to which will grab the users attention and help them understand what the website is about.
 
 ![Screenshot of the websit'es hero image with text overlay](assets/images/screenshot-fresh-face-hero.png)
 
@@ -109,7 +109,7 @@ The features on this website was created to aid users with finding information o
   - This section provides information on what Fresh Face is and its purpose. This section is broken into two sections:
      - What is Fresh Face?
      - Why you need Fresh Face!
-  - This section is intended to help the users to get a summary of the website and to keep them engaged long enough until they can commit to checking out the whole website.
+  - This section provides a quick summary about the brand and why they need the recommended remedies provided in the website.
 
 **Image - What is Fresh Face?**
 
@@ -138,7 +138,7 @@ The features on this website was created to aid users with finding information o
      - Oily
      - Combination
      - Acne Prone
-  - This page provides the user a step by step guide on ingredients, how to make, how to apply and how it treats the skin.
+  - This page provides the user a step by step guide.
   - This page is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is best suited for their skin type
 
 **Image - Dry Skin Remedy**
@@ -158,9 +158,9 @@ The features on this website was created to aid users with finding information o
 ![Screenshot of acne prone skin remedy section showing text and sliced lemond and lime image](assets/images/screenshot-acne-rem.png)
 
 - #### Skin Chart Page
-  - The skin chart page consists of information to determine their skin type.
+  - The skin chart page consists of information to determine the user's skin type.
   - It provides the skin types and the symptoms associated with it.
-  - Determining their skin type will then help them choose the relevant Fresh Face remedy.
+  - Determining their skin type will help them choose the relevant Fresh Face remedy.
 
 **Image - Dry and Oily Skin Chart**
 
@@ -224,7 +224,7 @@ Responsiveness of this website was tested using Google Developer Tools to observ
 
 ### Bugs Encountered & Solutions:
  - #### Bugs
-   - Hero Text was aligning incorrectly to the Hero Image at different screen sizes.
+   - Text overlay on the hero image was aligning incorrectly at different screen sizes.
 
  - #### Solution
    - Solved by using percentages instead of pixels.
@@ -248,9 +248,7 @@ Responsiveness of this website was tested using Google Developer Tools to observ
 ![Screenshot of no errors in my HTML code on W3C validator](assets/images/screenshot-w3c-validator-html.png)
 
  - CSS
-   - No errors were returned when passing through the official
-
-![](https://jigsaw.w3.org/css-validator/) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) 
+   - No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) 
 
 ![Screenshot of no errors in my CSS code on Jigsaw validator](assets/images/screenshot-jigsaw-validator.png)
 
@@ -270,7 +268,7 @@ The open source developer environment used to write and edit code was Gitpod. Gi
   - Access the relevant repository for the project that will be deployed.
   - At the top of project repository, click the settings tab to access more settings.
   - Sidebar appears on left-hand side, locate "Pages" tab at bottom of sidebar and click it.
-  - Under Github Pages, locate "source" section and click on the branch dropdown labelled as none and change to "main"
+  - Under Github Pages, locate "source" section and click on the branch dropdown labelled as "none" and change to "main"
   - Click "Save".
   - Give it a few minutes then refresh the page and a pop up box with live link to the project will appear.
 
@@ -279,27 +277,27 @@ The live link can be found [https://aasanusi.github.io/fresh-face/](https://aasa
 ## Credits
 ### Code
 - [W3Schools:](https://www.w3schools.com/)
-  - Aided in uderstanding on how to write certain codes.
+  - Helped in writing certain codes for the website.
 
 - [Kinsta:](https://kinsta.com/blog/responsive-web-design/)
   - Kinsta website helped with forming media queries for the site.
 
 ### Content
 - Content and codes were written by the developer.
-- Love Running walkthrough video aided in forming the basic strutures of the website. Used README template to also form parts of this project's README.
+- Love Running walkthrough video aided in forming the basic strutures of the website. Used README template to also influence the basic structures of this website's README.
 - IDE and Deployment essential video was followed to help create README.
 - [Steve Griffith Youtube Channel:](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3)
-  - Helped with writing flexbox and grids.
+  - Helped with understanding flexbox and grids.
 - [Font Awesome:](https://fontawesome.com/)
   - Icons were imported from Font Awesome website.
 
 ### Media
-All the photos used in this website was taken from a royalty and copyright free website called [Pexels](https://www.pexels.com/).
+All the photos used in this website were taken from a royalty and copyright free website called [Pexels](https://www.pexels.com/).
 
 ### Acknowledgments
 - #### Mentor
-  - I would like to thank my mentor for the initial help and tips to get started with my project such as advising me to use Balsamiq to form the basic parts of the website.
-  - I woild like to thank my mentor for the continous feedback.
+  - I would like to thank my mentor for the initial help and tips to get started with my project.
+  - I would like to thank my mentor for the continous feedback during our meetings
 
 - #### Tutor Support Team
   - I would like to give a huge thanks to Christine for helping solve the aligning issues on the Remedies page.
@@ -307,8 +305,8 @@ All the photos used in this website was taken from a royalty and copyright free 
   - I would like to thank Sean for helping solve the image issue on the Skin Chart page.
 
 - #### Fellow classmates/aluminis on Slack
-  - I would like to thank Jared for helping to solve the footer issue and providing me with README information.
-  - I would like to thank Mat for providing resources to help build the website.
+  - I would like to thank Jared for helping to solve the footer issue and providing me with many resources to help build my project.
+  - I would like to thank Mat for providing me with README information
   - I would like to thank Lauren-Nicole for helping to solve the hero-image issue on the home page.
   - I would like to thank Bim for helping me understand some fundamental HTML and CSS and how to write media queries.
 

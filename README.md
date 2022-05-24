@@ -1,4 +1,4 @@
-# Fresh Face Website
+# FRESH FACE
 
 ![Screenshot of fresh face website shown across a range of different devices](assets/images/responsive-website-all-screens.png)
 

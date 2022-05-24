@@ -68,27 +68,18 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
       - [Fellow classmates/alumnis on Slack](#Fellow-classmates/alumnis-on-Slack)
 
 ## User Experience (UX)
-<ul>
-<li> <strong>User Stories</strong>
-<ul>
-<li>First Time User
-<ol>
-<li>As a first time user, I want to be sold on why to use Fresh Face remedies instead of buying branded skincare.</li>
-<li>As a first time user, I want to find it easy to navigate the site.</li>
-<li>As a first time user, I want to able find skin care remedies for my skin type.</li>
-<li>As a first time user that don't know their skin type, I want to be able to determine type of skin type I have.</li>
-<li>As a first time user, I want to be able to find your social media accounts.</li>
-</ol>
-</li>
-<li>Revisiting User
-<ol>
-<li>As a revisiting user, I want to be able to contact the organisation if I have any questions.</li>
-<li>As a revisiting user, I want to be able to find monthly updates on the skin care remedy.</li>
-</ol>
-</ul>
-</ul>
-<br>
-<ul>
+- ### User Stories
+  - #### First Time User
+    - As a first time user, I want to be sold on why to use Fresh Face remedies instead of buying branded skincare.
+    - As a first time user, I want to find it easy to navigate the site.
+    - As a first time user, I want to able find skin care remedies for my skin type.
+    - As a first time user that don't know their skin type, I want to be able to determine type of skin type I have.
+    - As a first time user, I want to be able to find your social media accounts.
+  - #### Revisiting User
+    - As a revisiting user, I want to be able to contact the organisation if I have any questions.
+    - As a revisiting user, I want to be able to find monthly updates on the skin care remedy.
+
+
 <li><strong>Design</strong>
 <ul>
 <li>Love Running Walkthrough Video

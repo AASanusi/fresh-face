@@ -13,7 +13,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 
 ## Contents
-- [User Experience (UX)](#User-Experience-(UX))
+- [User Experience (UX)](#User-Experience-UX)
    - [User Stories](#User-Stories)
       - [First Time User](#First-Time-User)
       - [Revisiting User](#Revisiting-User)

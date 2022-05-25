@@ -172,11 +172,11 @@ The features on this website was created to aid users with finding information o
   - This page will allow the user to provide feedbacks on Fresh Fresh remedy and ask us any specific questions about Fresh Face remedies. The user will need to give their full name and email address in order to submit their feedback.
   - This page also consists of Fresh Face contact details such as phone number, email address and location address. This is to encourage the users to reaching out to us for support.
 
-**Image - Feedback Form**
+**Image 1 - Feedback Form**
 
 ![Screenshot of feedback form consisting of name, email and submit inputs](assets/images/screenshot-feedback.png)
 
-**Image - Contact Details**
+**Image 2 - Contact Details**
 
 ![Screenshot of contact details consisting of company's phone number, email address and HQ address](assets/images/screenshot-contacts.png)
 

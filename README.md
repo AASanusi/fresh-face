@@ -48,8 +48,8 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 - [Testing](#Testing)
   - [Bugs Encountered & Solutions](#Bugs-Encountered-&-Solutions)
   - [Validator Testing](#Validator-Testing)
-     - [HTML](#H-T-M-L)
-     - [CSS](#C-S-S)
+     - [HTML](#HTML)
+     - [CSS](#CSS)
      - [Lighthouse](#Lighthouse-Testing)     
   - [Unfixed Bugs](#Unfixed-Bugs)
 
@@ -240,17 +240,17 @@ Responsiveness of this website was tested using Google Developer Tools to observ
    - Solved by removing grid-template column and padding from div and replacing with text-align.
 
 ### Validator Testing
- - HTML
+ - #### HTML
    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
 
 ![Screenshot of no errors in my HTML code on W3C validator](assets/images/screenshot-w3c-validator-html.png)
 
- - CSS
+ - #### CSS
    - No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) 
 
 ![Screenshot of no errors in my CSS code on Jigsaw validator](assets/images/screenshot-jigsaw-validator.png)
 
- - Lighthouse Testing
+ - #### Lighthouse Testing
    - Performance score
 
 ![Screenshot of lighthouse performance score](assets/images/screenshot-lighthouse-performance.png)

@@ -109,11 +109,11 @@ The features on this website was created to aid users with finding information o
      - Why you need Fresh Face!
   - This section provides a quick summary about the brand and why they need the recommended remedies provided in the website.
 
-**Image - What is Fresh Face?**
+**Image 1 - What is Fresh Face?**
 
 ![Screenshot of image one of a woman with a facial remedy on her face](assets/images/we-love-ff-section-img-1.png)
 
-**Image - Why you need Fresh Face!**
+**Image 2 - Why you need Fresh Face!**
 
 ![Screenshot of image two of a woman smiling and touching her face](assets/images/we-love-ff-section-img-2.png)
 
@@ -139,19 +139,19 @@ The features on this website was created to aid users with finding information o
   - This page provides the user a step by step guide.
   - This page is valuable to the user as they will be able to identify the relevant Fresh Face remedy that is best suited for their skin type
 
-**Image - Dry Skin Remedy**
+**Image 1 - Dry Skin Remedy**
 
 ![Screenshot of dry skin remedy section showing text and honey image](assets/images/screenshot-dry-rem.png)
 
-**Image - Oily Skin Remedy**
+**Image 2 - Oily Skin Remedy**
 
 ![Screenshot of oily skin remedy section showing text and coffee beans image](assets/images/screenshot-oily-rem.png)
 
-**Image - Combination Skin Remedy**
+**Image 3 - Combination Skin Remedy**
 
 ![Screenshot of combination skin remedy section showing text and almonds image](assets/images/screenshot-com-rem.png)
 
-**Image - Acne Prone Skin Remedy**
+**Image 4 - Acne Prone Skin Remedy**
 
 ![Screenshot of acne prone skin remedy section showing text and sliced lemond and lime image](assets/images/screenshot-acne-rem.png)
 
@@ -160,11 +160,11 @@ The features on this website was created to aid users with finding information o
   - It provides the skin types and the symptoms associated with it.
   - Determining their skin type will help them choose the relevant Fresh Face remedy.
 
-**Image - Dry and Oily Skin Chart**
+**Image 1 - Dry and Oily Skin Chart**
 
 ![Screenshot of dry and oily skin chart with images of a dry skin and oily skin accompanied with a description for each](assets/images/screenshot-dry-oily-sc.png)
 
-**Image - Combination and Acne Prone Skin Chart**
+**Image 2 - Combination and Acne Prone Skin Chart**
 
 ![Screenshot of dry and oily skin chart with images of a dry skin and oily skin accompanied with a description for each](assets/images/screenshot-com-acne-sc.png)
 

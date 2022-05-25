@@ -23,7 +23,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
    - [Typography](#Typography)
    - [Imagery](#Imagery)
 
-- [Feature](#Features)
+- [Features](#Features)
    - [Existing Features](#Existing-Features)
       - [Navigation Bar](#Navigation-Bar)
       - [We love Fresh Face Remedies Section](#We-love-Fresh-Face-Remedies-Section)

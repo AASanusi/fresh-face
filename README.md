@@ -216,7 +216,7 @@ The features on this website was created to aid users with finding information o
   - Gitpod Full Template was provided by code institute and it consisted of all the relevant tools needed to code this website.
 
 ## Testing
-The site consists of the Home page, Remedies page, Skin Chart page and Contact us page. All these pages have been put through validators to ensure that there are no errors in the code and it's up to the required standard.
+The site consists of the Home page, Remedies page, Skin Chart page and Contact Us page. All these pages have been put through validators to ensure that there are no errors in the code and it's up to the required standard.
 
 Responsiveness of this website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different browsers such as Google Chrome and Safari.
 

@@ -295,7 +295,7 @@ All the photos used in this website were taken from a royalty and copyright free
 ### Acknowledgments
 - #### Mentor
   - I would like to thank my mentor for the initial help and tips to get started with my project.
-  - I would like to thank my mentor for the continous feedback during our meetings
+  - I would like to thank my mentor for the continous feedback during our meetings.
 
 - #### Tutor Support Team
   - I would like to give a huge thanks to Christine for helping solve the aligning issues on the Remedies page.
@@ -304,7 +304,7 @@ All the photos used in this website were taken from a royalty and copyright free
 
 - #### Fellow classmates/aluminis on Slack
   - I would like to thank Jared for helping to solve the footer issue and providing me with many resources to help build my project.
-  - I would like to thank Mat for providing me with README information
+  - I would like to thank Mat for providing me with README information.
   - I would like to thank Lauren-Nicole for helping to solve the hero-image issue on the home page.
   - I would like to thank Bim for helping me understand some fundamental HTML and CSS and how to write media queries.
 

@@ -1,6 +1,6 @@
 # FRESH FACE
 
-![Screenshot of fresh face website shown across a range of different devices](assets/images/responsive-website-all-screens.png)
+![Screenshot of fresh face website shown across a range of different devices](assets/images/screenshot-of-fresh-face-website-shown-across-a-range-of-different-devices.png)
 
 [View Fresh Face Live Website Here](https://aasanusi.github.io/fresh-face/)
 

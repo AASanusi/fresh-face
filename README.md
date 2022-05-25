@@ -98,7 +98,7 @@ The features on this website was created to aid users with finding information o
 ![Screenshot of the navigation bar with the logo and navigation links](assets/images/navigation-bar.png)
 
 - #### Hero Image
-  - This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of the using natural remedies as part of your skin care routine.
+  - This consists of the selling image and a catchphrase with a message overlay which outlines the advantages of using natural remedies as part of your skin care routine.
   - The image shows a woman with a facial mask at the forefront to which will grab the users attention and help them understand what the website is about.
 
 ![Screenshot of the websit'es hero image with text overlay](assets/images/screenshot-fresh-face-hero.png)

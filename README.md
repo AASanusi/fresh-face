@@ -92,7 +92,7 @@ The features on this website was created to aid users with finding information o
 
 ### Existing Features 
 - #### Navigation Bar
-  - Consists of the website's logo and the navigation links such as the Home page, Remedies page, Skin Chart page and the Contact Us page. They are all identical and consistent across all four pages.
+  - Consists of the website's logo and the navigation links such as the Home page, Remedies page, Skin Chart page and the Contact Us page. It is identical and consistent across all four pages.
   - This was created to aid the users to navigate each page with just one click. Logo was also created to be able to link back to the Home page when clicked on.
 
 ![Screenshot of the navigation bar with the logo and navigation links](assets/images/navigation-bar.png)

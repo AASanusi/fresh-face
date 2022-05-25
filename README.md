@@ -36,7 +36,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 - [Technologies Used](#Technologies-Used)
    - [Languages Used](#Languages-Used)
-   - [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+   - [Frameworks, Libraries And Programs Used](#Frameworks,-Libraries-And-Programs-Used)
       - [Balsamiq](#Balsamiq)
       - [Google Fonts](#Google-Fonts)
       - [Font Awesome](#Font-Awesome)
@@ -46,7 +46,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
       - [Gitpod Full Template](#Gitpod-Full-Template)
 
 - [Testing](#Testing)
-  - [Bugs Encountered & Solutions](#Bugs-Encountered-&-Solutions)
+  - [Bugs Encountered And Solutions](#Bugs-Encountered-And-Solutions)
   - [Validator Testing](#Validator-Testing)
      - [HTML](#HTML)
      - [CSS](#CSS)
@@ -192,7 +192,7 @@ The features on this website was created to aid users with finding information o
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries And Programs Used
 
 1. #### [Balsamiq:](https://balsamiq.com/)
   - Balsamiq was used to create the basic frameworks of the project to which helped to coding the website.
@@ -220,7 +220,7 @@ The site consists of the Home page, Remedies page, Skin Chart page and Contact U
 
 Responsiveness of this website was tested using Google Developer Tools to observe how each page appeared and functioned on different screen sizes. Tested appearance and functionality on different browsers such as Google Chrome and Safari.
 
-### Bugs Encountered & Solutions:
+### Bugs Encountered And Solutions:
  - #### Bugs
    - Text overlay on the hero image was aligning incorrectly at different screen sizes.
 

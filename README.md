@@ -36,7 +36,7 @@ HTML5 and CSS3 are the only technologies used to create this static and responsi
 
 - [Technologies Used](#Technologies-Used)
    - [Languages Used](#Languages-Used)
-   - [Frameworks, Libraries And Programs Used](#Frameworks,-Libraries-And-Programs-Used)
+   - [Frameworks And Programs Used](#Frameworks-And-Programs-Used)
       - [Balsamiq](#Balsamiq)
       - [Google Fonts](#Google-Fonts)
       - [Font Awesome](#Font-Awesome)
@@ -192,7 +192,7 @@ The features on this website was created to aid users with finding information o
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-### Frameworks, Libraries And Programs Used
+### Frameworks And Programs Used
 
 1. #### [Balsamiq:](https://balsamiq.com/)
   - Balsamiq was used to create the basic frameworks of the project to which helped to coding the website.
